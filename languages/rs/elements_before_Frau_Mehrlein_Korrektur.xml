@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<elements>
+    <language>sr</language>
+    <title>Simpladent Srbija</title>
+    <address>
+		<name>Sipic Dr. Olga</name>
+		<email>mathias.wehling@implant.com</email>
+	</address>
+	<contact>
+        <phone>+381 65 511 11 61<br />
+		+381 11 408 56 92</phone>
+        <hours>RADNO VREME 9:00-17:00 </hours>
+        <callMe>ZATRAŽITE POZIV</callMe>
+        <name>VAŠE IME: </name>
+        <number>BROJ TELEFONA: </number>
+        <send>POŠALJI ZAHTEV</send>
+        <mail>E MAIL:</mail>
+    </contact>
+    <appointments>
+        <title>TERMINI</title>
+        <name>VAŠE IME:</name>
+        <phone>BROJ TELEFONA:</phone>
+        <mail>E MAIL:</mail>
+        <comment>KOMENTAR</comment>
+        <send>VAS TERMIN</send>
+        <getBack>Kontaktiraćemo Vas uskoro</getBack>
+    </appointments>
+	<clinic>
+		<addr>Adresse:</addr>
+	</clinic>
+    <footer>
+        <mail>
+            <text>Email:</text>
+            <adress>info@simpladent.rs</adress>
+        </mail>
+        <partners>
+            <text>Partner:</text>
+            <partner>
+                <name>www.implant.com</name>
+                <link>www.implant.com</link>
+            </partner>
+            <partner>
+                <name>www.implantfoundation.org</name>
+                <link>www.implantfoundation.org</link>
+            </partner>
+            <partner>
+                <name>www.sibasi.org</name>
+                <link>www.sibasi.org</link>
+            </partner>
+        </partners>
+        <facebook>
+            <text>Official Simpladent</text>
+            <link>http://www.facebook.com/official.simpladent</link>
+        </facebook>
+    </footer>
+	<slang>
+		<address>Address</address>
+		<team>Our Team</team>
+		<doctor>Doctor</doctor>
+		<assistant>Assistant</assistant>
+		<clinic>Our Clinic</clinic>
+		<labor>Our Labor</labor>
+		<accommodations>Recommended Accommodation</accommodations>
+		<phone>Phone</phone>
+		<email>E-Mail</email>
+		<homepage>Homepage</homepage>
+		<manager>Office Manager</manager>
+	</slang>
+</elements>
