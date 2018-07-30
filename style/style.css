@@ -184,7 +184,7 @@ a:hover {
 }
 .inSubMenu {
   width: 100%;
-  margin-left: 35%;
+  margin-left: 23%;
 }
 #main_menu > nav > ul > li.hasSubMenu.active:hover:after,
 #main_menu > nav > ul > li.hasSubMenu.active.showSubmenu:after {
@@ -274,34 +274,33 @@ a:hover {
 
 
 #wrapper {
-  /*width: 100%;*/
   padding-top: 80px;
   overflow: hidden;
 }
 #wrapper .main_img {
   min-height: 485px;
-  /*width: 100%;*/
-  background-position: center;
+  background-position: center bottom;
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background-size: cover;
-  /*height: 0;*/
-  /*padding-top: 36.75%;*/
   border-bottom: 4px solid #e60101;
   position: relative;
-    z-index: -1;
+  z-index: -1;
 }
 .main_section {
   /*margin-top: -143px;*/
   /*padding-top: 143px;*/
-  padding: 0 3%;
+  /*padding: 0 3%;*/
 }
 #methSection_1 {
   padding-bottom: 30px;
 }
 .section {
   clear: both;
-  background-color: #F9F9F9;
+  /*background-color: #F9F9F9;*/
+  padding: 0 2%;
+}
+.section p {
+  text-align: justify;
 }
 .section > .img {
   float: left;
@@ -315,13 +314,16 @@ a:hover {
 .section > .img img {
   float: right;
 }
+.section.main_section {
+  padding: 0;
+}
 #wrapper .main_block {
   /*margin-top: -143px;*/
   background: #f9f9f9;
   float: right;
   width: 100%;
   /*width: 500px;*/
-  padding: 43px 0 60px;
+  padding: 43px 5% 60px;
   margin-bottom: 20px;
   text-align: justify;
 }
@@ -346,7 +348,7 @@ a:hover {
   line-height: 18px;
   color: #000;
   font-style: italic;
-  /*width: 400px;*/
+  width: 100%;
   overflow: hidden;
   padding: 0 36px;
   margin-bottom: 43px;
@@ -356,9 +358,12 @@ a:hover {
   float: right;
   /*width: 500px;*/
 }
+#methSection_1 .info .article {
+  padding: 0 2%;
+}
 #methSection_2 {
   margin-bottom: 15px;
-    padding-top:35px;
+  padding-top:35px;
 }
 #methSection_2 .article {
   margin-bottom: 30px;
@@ -381,10 +386,31 @@ a:hover {
   right: -45px;
   background-position: -29px 0;
 }
-.slider li {
+/*horizontal*/
+/*.slider li {
   list-style: none;
   float: left;
+}*/
+
+/*vertical*/
+.slider li {
+  list-style: none;
+  /*float: left;*/
 }
+
+/*********************************************************************/
+ /*
+
+
+                   methodology page slider
+
+
+
+
+
+ */
+/*********************************************************************/
+/*horizontal*/
 #methSection_2 .slider {
   margin-right: -11px;
   margin-bottom: 50px;
@@ -396,14 +422,16 @@ a:hover {
 #methSection_2 .slider .right_arr {
   right: -33px;
 }
+#methSection_2 .slider ul.slider_list {
+  width: 100%;
+}
 #methSection_2 .slider li {
   padding-right: 12px;
-  width: 33.33%;
+  width: 100%;
 }
 #methSection_2 .slider li .img {
   height: 192px;
   border: 1px solid #a0a0a0;
-  margin-bottom: 22px;
   position: relative;
 }
 #methSection_2 .slider li .img img {
@@ -419,7 +447,7 @@ a:hover {
   transform: translate(-50%, -50%);
 }
 #methSection_2 .slider li .text {
-  padding: 12px 0;
+  padding: 12px 0 80px;
   color: #262626;
 }
 #methSection_2 .slider li .text .name {
@@ -432,29 +460,96 @@ a:hover {
   line-height: 14px;
   font-weight: bold;
 }
+/******************************************************************************************/
 #methSection_3 {
     border-top: 1px solid #555555;
     padding-top: 45px;
 
   margin-bottom: 116px;
 }
+#methSection_3 .img {
+  margin: 0 1% 1% 0;
+  width: initial;
+}
 #methSection_3 .img img {
   width: 100%;
 }
 #methSection_3 .article {
-  float: right;
+  /*float: right;*/
   /*width: 464px;*/
   margin-bottom: 80px;
 }
+#methSection_3 .article p {
+  overflow: visible;
+}
 #methSection_3 .steps {
   counter-reset: list;
+  padding-left: 5%;
 }
-#methSection_3 .steps li {
+/*************************************************************************************/
+/*                                                                                   */
+/*                                                                                   */
+/*                                                                                   */
+/*                                                                                   */
+/*                               counter                                             */
+/*                                                                                   */
+/*                                                                                   */
+/*                                                                                   */
+/*                                                                                   */
+/*************************************************************************************/
+/*horizontal*/
+/*#methSection_3 .steps li {
   float: left;
   list-style: none;
   position: relative;
   padding-top: 88px;
   width: 118px;
+  font-size: 11px;
+  color: #000000;
+  line-height: 16px;
+}*/
+/*#methSection_3 .steps li:before {
+  height: 60px;
+  width: 60px;
+  border: 5px solid #e4312f;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 50px;
+  font-size: 26px;
+  color: #e4312f;
+  font-weight: bold;
+  counter-increment: list;
+  content: counter(list);
+  position: absolute;
+  top: 0;
+  left: 0;
+}*/
+/*horizontal*/
+/*#methSection_3 .steps li + li {
+  margin-left: 35px;
+}*/
+/*#methSection_3 .steps li + li:after {
+  width: 79px;
+  height: 1px;
+  background: #d4d4d4;
+  position: absolute;
+  left: -87px;
+  top: 30px;
+  content: '';
+}*/
+
+
+
+
+
+
+/*************/
+/*vertical*/
+#methSection_3 .steps li {
+  list-style: none;
+  position: relative;
+  padding-left: 88px;
+  width: 100%;
   font-size: 11px;
   color: #000000;
   line-height: 16px;
@@ -472,36 +567,44 @@ a:hover {
   counter-increment: list;
   content: counter(list);
   position: absolute;
-  top: 0;
+  top: -25px;
   left: 0;
 }
 #methSection_3 .steps li + li {
-  margin-left: 35px;
+  margin-top: 85px;
 }
 #methSection_3 .steps li + li:after {
-  width: 79px;
-  height: 1px;
+  width: 1px;
+  height: 30px;
   background: #d4d4d4;
   position: absolute;
-  left: -87px;
-  top: 30px;
+  left: 30px;
+  top: -60px;
   content: '';
 }
+/*************************************************************************************/
+/*                                                                                   */
+/*                                                                                   */
+/*                                                                                   */
+/*                                                                                   */
+/*                               end of counter                                      */
+/*                                                                                   */
+/*                                                                                   */
+/*                                                                                   */
+/*                                                                                   */
+/*************************************************************************************/
 #methSection_4 {
-
-    border-top: 1px solid #555555;
-    padding-top: 95px;
-
+  border-top: 1px solid #555555;
+  padding-top: 95px;
   margin-bottom: 30px;
-
 }
 #methSection_4 h1 {
   max-width: 450px;
   margin-bottom: 50px;
 }
-#methSection_4 .compare_block {
+/*#methSection_4 .compare_block {
   width: 624px;
-}
+}*/
 #methSection_4 .compare_block .header {
   text-align: center;
   font-size: 35px;
@@ -510,12 +613,13 @@ a:hover {
   margin-bottom: 40px;
 }
 #methSection_4 .compare_table table {
+  border-collapse:separate;
   border-spacing: 0 20px;
   width: 100%;
 }
 #methSection_4 .compare_table table .type1,
 #methSection_4 .compare_table table .type2 {
-  width: 178px;
+  width: 30%;
 }
 #methSection_4 .compare_table .t_head table td {
   font-size: 17px;
@@ -568,6 +672,7 @@ a:hover {
   line-height: 16px;
   color: #000000;
   font-weight: 600;
+  text-align: left;
 }
 #methSection_4 .compare_table .t_body table td .block p + p {
   margin-top: 18px;
@@ -603,6 +708,7 @@ a:hover {
   margin: 0 auto;
   position: relative;
   z-index: 1;
+  display: block;
 }
 #methSection_4 .compare_table .t_body table td .step span {
   width: 48px;
@@ -632,6 +738,7 @@ a:hover {
   line-height: 19px;
   color: #000000;
   font-weight: normal;
+  text-align: left;
 }
 #methSection_4 .compare_table .t_foot table td p + p {
   margin-top: 16px;
@@ -655,10 +762,10 @@ a:hover {
 }
 #methSection_5 .columns .col {
   float: left;
-  width: 43%;
+  width: 100%;
 }
 #methSection_5 .columns .col + .col {
-  margin-left: 14%;
+  /*margin-left: 14%;*/
 }
 #methSection_6 {
     padding-top: 50px;
@@ -672,18 +779,21 @@ a:hover {
   margin-top: -15px;
 }
 #methSection_6 .slider li .imgs {
-  float: left;
-  width: 440px;
-}
-#methSection_6 .slider li .imgs img {
+  /*float: left;*/
+  display: inline-block;
   width: 100%;
 }
+#methSection_6 .slider li .imgs img {
+  width: 49%;
+  float: left;
+}
 #methSection_6 .slider li .imgs img + img {
-  margin-top: 6px;
+  margin-left: 1%;
+  float: right;
 }
-#methSection_6 .slider li .text {
+/*#methSection_6 .slider li .text {
   margin-left: 470px;
-}
+}*/
 #methSection_6 .slider li .text .article {
   font-size: 12px;
 }
@@ -739,17 +849,23 @@ a:hover {
 #methSection_8 {
     padding-top:65px;
 }
+#methSection_8 .img {
+  width: 100%;
+}
 #methSection_8 .img img {
   margin-top: -24px;
   margin-right: -40px;
+  float: none;
 }
 #methSection_8 .article {
   font-size: 15px;
   line-height: 24px;
   letter-spacing: 0.03em;
-  padding-left: 36px;
-  float: right;
-  width: 500px;
+  /*padding-left: 36px;*/
+  width: 100%;
+}
+#methSection_8 .article p {
+  overflow: visible;
 }
 #empty {
   height: 272px;
@@ -822,18 +938,15 @@ a:hover {
 }
 #aboutSection_1 {
   margin-bottom: 60px;
-  /*background-color: #F9F9F9;*/
   padding-top: 20px;
 }
 #aboutSection_1 .author {
   display: none;
-  /*width: 236px;*/
   width: 30%;
   float: left;
-  /*margin-top: -90px;*/
   margin-bottom: 250px;
-  background-color: #F9F9F9;
-  padding-left: 2%;
+  margin-left: 10%;
+  /*background-color: #F9F9F9;*/
 }
 #aboutSection_1 .author .img {
   margin-bottom: 45px;
@@ -842,7 +955,8 @@ a:hover {
   width: 100%;
 }
 #aboutSection_1 .author .article {
-  width: 200px;
+  width: 70%;
+  padding-left: 2%;
 }
 #aboutSection_1 .author .article blockquote,
 #aboutSection_1 .info .article blockquote {
@@ -856,20 +970,19 @@ a:hover {
   padding-left: 2%;
 }
 #aboutSection_2 {
-    border-top: 1px solid #333;
-    padding-top: 40px;
+  border-top: 1px solid #333;
+  padding-top: 40px;
   margin-bottom: 35px;
 }
 #aboutSection_2 .img {
   display: none;
-  width: 50%;
+  width: 40%;
   float: left;
 }
 #aboutSection_2 .img img {
   width: 100%;
 }
 #aboutSection_2 .article {
-/*  float: right;*/
   width: 100%;
 }
 #aboutSection_2 .article p {
@@ -986,7 +1099,6 @@ a:hover {
   text-align: center;
 }
 #aboutSection_4 .certificates .cert {
-  /*margin-left: 54px;*/
   width: 163px;
   height: 215px;
   background: url("../img/certificate.png") 0 0 no-repeat;
@@ -1003,14 +1115,16 @@ a:hover {
   max-height: 100%;
 }
 #aboutSection_4 .article {
-  /*width: 200px;*/
-  width: 50%;
+  width: 40%;
   float: right;
-  /*margin-right: 70px;*/
   font-size: 18px;
   line-height: 26px;
   color: #585858;
   font-style: italic;
+  padding-right: 2%;
+}
+#aboutSection_4 .article p {
+  text-align: left;
 }
 #aboutSection_5 {
     padding-top:25px;
@@ -1674,6 +1788,7 @@ h2 {
   color: #000000;
   margin-bottom: 24px;
   letter-spacing: 0.03em;
+  font-weight: bold;
 }
 .article {
   font-size: 11px;
@@ -1690,7 +1805,7 @@ h2 {
 .article blockquote {
   max-width: 460px;
   padding-left: 50px;
-  margin-left: -33px;
+  margin-left: -50px;
   position: relative;
   font-size: 11px;
   line-height: 18px;

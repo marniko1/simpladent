@@ -32,8 +32,8 @@
     <div class="clear"></div>
     <div class="info">
         <div class="article">
-            <p>U poslednjoj deceniji, zahvaljujući marljivom radu hirurga I istraživačkog centra Simpladent/Švajcarska ( <a href="http://ihde.com/" target="_blank">www.ihde.com</a> ) u saradnji sa International Implant Foundation ( <a href="http://www.implantfoundation.org/" target="_blank">www.implantfoundation.org</a> ), Strategic implantologija dostigla je visok nivo perfekcije. Tehnologija kombinuje upotrebu kortikalne kosti uz pomoć patentiranih BECES<sup>&reg;</sup> implantata.</p>
-            <p>Simpladent GmbH je razvio revolucionaran koncept tretmana u saradnji sa maksilo-facijalnim odsekom Beogradskog Univerziteta (Prof.V.Konstantinović, Prof.Lazić). Oni su istinski pioniri I vodeći svetski specijalisti u ovom polju, npr. ugradnja lateralnih i šraf srtategic implantata u frontalnu kost, mastoidnu kost i glabelu.</p>
+            <p>U poslednjoj deceniji, zahvaljujući marljivom radu hirurga i istraživačkog centra Simpladent/Švajcarska ( <a href="http://ihde.com/" target="_blank">www.ihde.com</a> ) u saradnji sa International Implant Foundation ( <a href="http://www.implantfoundation.org/" target="_blank">www.implantfoundation.org</a> ), Strategic implantologija dostigla je visok nivo perfekcije. Tehnologija kombinuje upotrebu kortikalne kosti uz pomoć patentiranih BECES<sup>&reg;</sup> implantata.</p>
+            <p>Simpladent GmbH je razvio revolucionaran koncept tretmana u saradnji sa maksilo-facijalnim odsekom Beogradskog Univerziteta (Prof.V.Konstantinović, Prof.Lazić). Oni su istinski pioniri i vodeći svetski specijalisti u ovom polju, npr. ugradnja lateralnih i šraf srtategic implantata u frontalnu kost, mastoidnu kost i glabelu.</p>
             <p>Naravno, dalji razvoj implantata se neće zaustaviti ovde. Simpladent GmbH sarađuje sa vodećim istraživačkim institucijama širom sveta. Danas, implantati proizvedeni od strane Simpladent GmbH su najbolji sistemi implantata za imedijatno opterećenje trenutno dostupni.</p>
         </div>
     </div>
@@ -43,7 +43,7 @@
         <h1>VRSTE IMPLANTATA</h1>
         <div class="article">
 
-            <p>Simpladent GmbH kompanija proizvodi više od 50 vrsta implantata za imedijantno opterećenje kako bi bilo moguće rešiti svaki dentalni problem. Specijalisti Simpladent asocijacije Vam mogu u svakom trenutku ponuditi bilo koji tip od postojećih implantata, najprikladniji za odgovarajuću protetiku. Naravno, kod izbora implantata, osim raznolikosti I kvaliteta, bitna je veština Vašeg stomatologa. To je razlog zašto svi stomatolozi unutar asocijacije prolaze konstantne obuke u Švajcarskim I Nemačkim klinikama. Time se omogućava optimalan I tačan izbor implantata za svaki pojedinačni slučaj.</p>
+            <p>Simpladent GmbH kompanija proizvodi više od 50 vrsta implantata za imedijantno opterećenje kako bi bilo moguće rešiti svaki dentalni problem. Specijalisti Simpladent asocijacije Vam mogu u svakom trenutku ponuditi bilo koji tip od postojećih implantata, najprikladniji za odgovarajuću protetiku. Naravno, kod izbora implantata, osim raznolikosti i kvaliteta, bitna je veština Vašeg stomatologa. To je razlog zašto svi stomatolozi unutar asocijacije prolaze konstantne obuke u Švajcarskim i Nemačkim klinikama. Time se omogućava optimalan i tačan izbor implantata za svaki pojedinačni slučaj.</p>
         </div>
         <div class="slider" data-row="3">
             <a href="#" class="left_arr"></a>
@@ -83,7 +83,7 @@
                         </div>
                         <div class="text">
                             <div class="name">KOS</div>
-                            <div class="desc">Kompresivni implantati oblika korena zuba za transmukoznu inserciju. Koriste se u beskrvnom postupku, bez hirurškog reza i odizanja režnjeva, pa kao rezultat nema postoperativnog otoka pacijenata I gotovo su potpuno bezbolni. Ne zahteva preoperativnu, skupu nadogradnju kosti.</div>
+                            <div class="desc">Kompresivni implantati oblika korena zuba za transmukoznu inserciju. Koriste se u beskrvnom postupku, bez hirurškog reza i odizanja režnjeva, pa kao rezultat nema postoperativnog otoka pacijenata i gotovo su potpuno bezbolni. Ne zahteva preoperativnu, skupu nadogradnju kosti.</div>
                         </div>
                     </li>
 					<li>
@@ -386,7 +386,7 @@
                     </div>
                     <div class="text">
                         <div class="article">
-							<p>Pacijent je imao proteze na 3 zuba u gornjoj vilici i na 4 zuba u donjoj vilici. Nakon 12 godina korišćenja ovih proteza, svi zubi su izvađeni u ugrađeno mu je 19 Strategic implantata. Definitivan protetski rad je cementiran posle 3 dana. Pacijent je odmah mogao da jede normalno. Tretman je drastično promenio njegov život i on je odmah povratio samopouzdanje.</p>
+							<p>Pacijent je imao proteze na 3 zuba u gornjoj vilici i na 4 zuba u donjoj vilici. Nakon 12 godina korišćenja ovih proteza, svi zubi su izvađeni i ugrađeno mu je 19 Strategic implantata. Definitivan protetski rad je cementiran posle 3 dana. Pacijent je odmah mogao da jede normalno. Tretman je drastično promenio njegov život i on je odmah povratio samopouzdanje.</p>
                         </div>
                     </div>
                     <div class="clear"></div>

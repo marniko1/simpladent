@@ -2,6 +2,12 @@
 	.reviews_list .review .review_text {
 	  margin-left: 30%;
 	}
+	#methSection_3 .img {
+	  width: 100%;
+	}
+	#methSection_4 .compare_table .t_body table td .step .num {
+		display: none;
+	}
 	#footer .contacts_col li {
 	  padding-left: 10%;
 	}
@@ -12,6 +18,24 @@
 @media (min-width: 600px) {
 	#aboutSection_4 .certificates {
 	  padding-left: 15%;
+	}
+	#methSection_2 .slider li {
+	  min-height: 200px;
+	  margin-bottom: 50px;
+	}
+	#methSection_2 .slider li .img {
+	  margin-bottom: 22px;
+	  width: 50%;
+	  float: left;
+	}
+	#methSection_2 .slider li .text {
+	  padding: 12px 0;
+	  width: 50%;
+	  float: right;
+	  padding: 3% 4%;
+	}
+	#methSection_8 .img {
+	  width: initial;
 	}
 }
 @media (max-width: 767.98px) {
@@ -25,9 +49,6 @@
 	#wrapper .in {
 	  width: 70%;
 	  margin: 0 auto;
-	}
-	.section{
-		padding: 0;
 	}
 	#main_menu {
 		display: block;
@@ -46,9 +67,6 @@
 	  padding-top: 30px;
 	  margin: initial;
 	}
-	/*#wrapper .in {
-		margin: 0 auto;
-	}*/
 	#aboutSection_1 .author {
 		display: block;
 	}
@@ -57,7 +75,6 @@
 	}
 	#wrapper .main_block {
 	  width: 60%;
-	  padding-right: 2%;
 	}
 	#aboutSection_2 .img {
 		display: block;
@@ -71,24 +88,97 @@
 	  width: 50%;
 	  padding-left: 0;
 	}
+	#methSection_1 .main_block {
+		width: 65%;
+	}
 	.reviews_list .review .review_text {
 	  padding-left: 75px;
 	}
 	.article blockquote:before {
 	  display: block;
 	}
-	/*#footer .in {
-		width: 70%;
-		margin: 0 auto;
-	}*/
+	#methSection_1 .note {
+	  width: 60%;
+	}
+	#methSection_1 .benefits .article {
+	  padding: 0 36px 30px 30%;
+	}
+	.slider li {
+	  float: left;
+	}
+	#methSection_2 .slider li {
+	  width: 33.33%;
+	}
+	#methSection_2 .slider li .img {
+		float: none;
+		width: 100%;
+	}
+	#methSection_2 .slider li .text {
+		float: none;
+		width: 100%;
+	}
+	#methSection_5 .columns .col {
+	  width: 43%;
+	}
+	#methSection_5 .columns .col + .col {
+	  margin-left: 14%;
+	}
 }
 @media (min-width: 992px) {
 	#wrapper .in {
-	  width: 50%;
+	  width: 57%;
 	}
 	#main_menu .subMenu {
 	  left: -62%;
 	  right: -27%;
+	}
+	#methSection_3 .steps li {
+	  float: left;
+	  list-style: none;
+	  position: relative;
+	  padding-top: 88px;
+	  padding-left: 0;
+	  width: 15%;
+	  font-size: 11px;
+	  color: #000000;
+	  line-height: 16px;
+	}
+	#methSection_3 .steps li:before {
+	  height: 60px;
+	  width: 60px;
+	  border: 5px solid #e4312f;
+	  border-radius: 50%;
+	  text-align: center;
+	  line-height: 50px;
+	  font-size: 26px;
+	  color: #e4312f;
+	  font-weight: bold;
+	  counter-increment: list;
+	  content: counter(list);
+	  position: absolute;
+	  top: 0;
+	  left: 0;
+	}
+	.slider li {
+	  list-style: none;
+	  float: left;
+	}
+	/*horizontal*/
+	#methSection_3 .steps li + li {
+	  margin-left: 5%;
+	  margin-top: 0;
+	}
+	#methSection_3 .steps li + li:after {
+	  width: 50%;
+	  height: 1px;
+	  background: #d4d4d4;
+	  position: absolute;
+	  left: -58%;
+	  top: 30px;
+	  content: '';
+	}
+	#tools {
+		display: block;
 	}
 }
 @media (min-width: 1200px) {
@@ -99,11 +189,11 @@
 	  margin-left: 13.5%;
 	  padding-left: initial;
 	}
-	#tools {
-		/*display: block;*/
-	}
 	#main_menu .subMenu {
 	  left: -82%;
 	  right: -4%;
+	}
+	.inSubMenu {
+	  margin-left: 40%;
 	}
 }

@@ -54,7 +54,11 @@ var page = {
             that.subMenu.scrollHandler();
             that.parallax.init()
         }).on('load', function(){
-            that.slider.init();
+            // console.log($(window).width());
+            // console.log(window.innerWidth);
+            if (window.innerWidth >= 768) {
+                that.slider.init();
+            }
             that.subMenu.init();
         })
         that.language.init();
@@ -164,7 +168,7 @@ var page = {
         currentScreen:0,
         screensOffsetPos:[],
         currentScreenId:undefined,
-        subMenuHeight:52,
+        subMenuHeight:100,
         init:function(){
             var that = this;
             that.windowHeight = $(window).innerHeight();
