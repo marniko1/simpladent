@@ -618,7 +618,11 @@ var page = {
             });
             $('.back_to_top').on('click', function(e){
                 e.preventDefault();
-                $('html, body').animate({ scrollTop: $('#top').offset().top }, that.scroll_duration);
+                $.when($('html, body').stop()).done(function(){
+                    var s = $('html, body').stop();
+                    console.log(s);
+                    $('html, body').animate({ scrollTop: $('#top').offset().top }, that.scroll_duration);
+                });
                 return false;
             });
         }
