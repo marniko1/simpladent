@@ -36,13 +36,13 @@
 <div class="header">Prikaz slučaja:</div>
 <div class="desc">
 	<br />
-	<img style="width:312px;" src="img/price/Fig.1.jpg" alt="" />Gornji levi centralni sekutić je morao biti izvađen zbog karijesa i apikalne infekcije.<br />
+	<img style="width:100%;" src="img/price/Fig.1.jpg" alt="" />Gornji levi centralni sekutić je morao biti izvađen zbog karijesa i apikalne infekcije.<br />
 	<br />
-	<img style="width:312px;" src="img/price/Fig.2.jpg" alt="" />Zub je zamenjen BCS implantatom odmah posle ekstrakcije.<br />
+	<img style="width:100%;" src="img/price/Fig.2.jpg" alt="" />Zub je zamenjen BCS implantatom odmah posle ekstrakcije.<br />
 	<br />
-	<img style="width:312px;" src="img/price/IMG_1921.jpg" alt="" />Privremena kruna je bila fiksirana odmah nakon ugradnje implantata, na period od tri meseca.<br />
+	<img style="width:100%;" src="img/price/IMG_1921.jpg" alt="" />Privremena kruna je bila fiksirana odmah nakon ugradnje implantata, na period od tri meseca.<br />
 	<br />
-	<img style="width:312px;" src="img/price/IMG_2276.jpg" alt="" />Definitivna kruna je izrađena od cirkonijum/keramike.<br />
+	<img style="width:100%;" src="img/price/IMG_2276.jpg" alt="" />Definitivna kruna je izrađena od cirkonijum/keramike.<br />
 </div>
 </div>
 </div>		
@@ -72,9 +72,9 @@
 <div class="header">Prikaz slučaja:</div>
 <div class="desc">
 	<br />
-	<img style="width:312px;" src="img/price/IMG_0822.jpg" alt="" />U gornjoj vilici pet zuba nedostaje. Zamenjeni su sa četiri implantata i mostom.<br />
+	<img style="width:100%;" src="img/price/IMG_0822.jpg" alt="" />U gornjoj vilici pet zuba nedostaje. Zamenjeni su sa četiri implantata i mostom.<br />
 	<br />
-	<img style="width:312px;" src="img/price/IMG_1053.jpg" alt="" />Inkorporiran most u frontu, ne zamenjuje samo zube. Takođe pruža potporu mekim tkivima usne i zbog toga donji deo srednje trećine lica dobija na volumenu.<br />
+	<img style="width:100%;" src="img/price/IMG_1053.jpg" alt="" />Inkorporiran most u frontu, ne zamenjuje samo zube. Takođe pruža potporu mekim tkivima usne i zbog toga donji deo srednje trećine lica dobija na volumenu.<br />
 </div>
 </div>
 </div>                                        <!--
@@ -106,9 +106,9 @@
 <div class="header">Prikaz slučaja:</div>
 <div class="desc">
 	<br />
-	<img style="width:312px;" src="img/price/IMG_7847.jpg" alt="" />Preostali zubi su teško oštećeni, dok je volumen kosti redukovan. Ovaj slučaj nije moguće sanirati konvencionalnim dentalnim implantatima.<br />
+	<img style="width:100%;" src="img/price/IMG_7847.jpg" alt="" />Preostali zubi su teško oštećeni, dok je volumen kosti redukovan. Ovaj slučaj nije moguće sanirati konvencionalnim dentalnim implantatima.<br />
 	<br />
-	<img style="width:312px;" src="img/price/IMG_0262.jpg" alt="" />Posle samo nekoliko dana, donjoj vilici je vraćena funkcija i estetika. Tokom tretmana nisu se javljali otoci niti jači bol. Tretman je moguć i u gornjoj vilici.<br />
+	<img style="width:100%;" src="img/price/IMG_0262.jpg" alt="" />Posle samo nekoliko dana, donjoj vilici je vraćena funkcija i estetika. Tokom tretmana nisu se javljali otoci niti jači bol. Tretman je moguć i u gornjoj vilici.<br />
 </div>
 </div>
 </div>                                        <!--
@@ -140,9 +140,9 @@
 <div class="header">Prikaz slučaja:</div>
 <div class="desc">
 	<br />
-	<img style="width:312px;" src="img/price/IMG_7723.JPG" alt="" />Iako je zatečena loša klinička situacija pre početka tretmana, odmah nakov vađenja zuba uugrađeni su implantati.<br />
+	<img style="width:100%;" src="img/price/IMG_7723.JPG" alt="" />Iako je zatečena loša klinička situacija pre početka tretmana, odmah nakov vađenja zuba uugrađeni su implantati.<br />
 	<br />
-	<img style="width:312px;" src="img/price/IMG_7831.JPG" alt="" />Tri dana kasnije fiksni (ovde: privremeni) mostovi su cementirani i u gornjoj i u donjoj vilici.<br />
+	<img style="width:100%;" src="img/price/IMG_7831.JPG" alt="" />Tri dana kasnije fiksni (ovde: privremeni) mostovi su cementirani i u gornjoj i u donjoj vilici.<br />
 </div>
 </div>
 </div>                                        <!--
@@ -167,7 +167,7 @@
                 
             </div>
 			
-<div class="article">
+<div class="article cost_last_par">
 	<br />
 	<br />
 	<p>

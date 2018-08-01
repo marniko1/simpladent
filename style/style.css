@@ -34,6 +34,28 @@ body {
   -webkit-user-select: none;
   -khtml-user-select: none;
 }
+body .back_to_top {
+    display: none;
+    position: fixed;
+    bottom: 5%;
+    right: 2%;
+    font-size: 2em;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #D50202;
+    text-align: center;
+    line-height: 1.2;
+    padding: 5px;
+    z-index: 1;
+    text-decoration: none;
+    transition: all .5s ease;
+}
+body .back_to_top:hover {
+  background-color: #343434;
+}
 .clear {
   clear: both;
 }
@@ -871,7 +893,7 @@ a:hover {
   height: 272px;
 }
 #footer {
-  height: 222px;
+  /*height: 222px;*/
   margin-top: -222px;
 }
 #footer .in {
@@ -1212,6 +1234,11 @@ a:hover {
   padding-top: 100px;
   margin-top: -100px;
   margin-bottom: 80px;  	
+  background-color: #FFFFFF;
+  text-align: justify;
+}
+#questionsSection_1 li {
+  margin-left: 2%;
 }
 #questionsSection_1 .main_block {
   margin-top: -83px;
@@ -1231,6 +1258,9 @@ a:hover {
   padding-top: 100px;
   margin-top: -100px;
   margin-bottom: 80px;
+}
+#costSection_1 h1 {
+  text-align: left;
 }
 #costSection_1 .main_block {
   margin-top: -83px;
@@ -1277,17 +1307,25 @@ a:hover {
   font-weight: 600;
   color: #7c7c7c;
 }
-#costSection_2 .cost_variants ol li .img {
+/*#costSection_2 .cost_variants ol li .img {
   float: left;
-  width: 224px;
+  width: 30%;
   margin-left: 65px;
-}
+}*/
 #costSection_2 .cost_variants ol li .img img {
-  width: 100%;
+  margin: 0 auto;
+  margin-bottom: 10px;
 }
 #costSection_2 .cost_variants ol li .text {
-  float: right;
-  width: 314px;
+  /*float: right;*/
+  width: 100%;
+}
+/*#costSection_2 .cost_variants ol li .text .example {
+  margin: 0 auto;
+}*/
+#costSection_2 .cost_variants ol li .text > .text {
+  float: none;
+  width: 100%;
 }
 #costSection_2 .cost_variants ol li .text .price_block {
   margin-bottom: 40px;
@@ -1304,8 +1342,10 @@ a:hover {
   color: #000000;
 }
 #costSection_2 .cost_variants ol li .text .example {
-  margin-left: -35px;
+  margin: 0 auto;
+  /*margin-left: -35px;*/
   padding-left: 34px;
+  width: 60%;
   border-left: 1px solid #e96969;
   font-size: 10px;
   line-height: 18px;
@@ -1313,6 +1353,10 @@ a:hover {
 }
 #costSection_2 .cost_variants ol li .text .example .header {
   font-weight: bold;
+}
+.cost_last_par {
+  text-align: justify;
+  padding: 0 2%;
 }
 #contactsSection_1 {
   margin-top: -288px;
@@ -1341,7 +1385,7 @@ a:hover {
 }
 #contactsSection_2 .article {
   float: right;
-  width: 464px;
+  width: 100%;
   font-size: 14px;
   margin-bottom: 65px;
 }
@@ -1350,6 +1394,7 @@ a:hover {
   margin-bottom: 20px;
 }
 .contactssection_2_left {
+  display: none;
   float:left;
   width:250px;
   height:465px;
@@ -1553,11 +1598,11 @@ a:hover {
 
 .video_site
 {
-	width:640px;
+	/*width:640px;*/
 }
 #video_box
 {
-	width:640px;
+	/*width:640px;*/
 	height:360px;
 }
 #video_link
@@ -1566,14 +1611,17 @@ a:hover {
 	flex-wrap: wrap;
 	justify-content: space-between;
 }
+#video_link a {
+  width: 100%;
+}
 .video_link_list
 {
-	width:304px;
+	width:100%;
 	height:171px;
 	margin:0 0 15px 0;
-	border:1px solid #AAAAAA;	
 	background-size:304px 171px;
 	background-position:center center;
+  background-repeat: no-repeat;
 	color:white;
 	cursor:pointer;
 	
@@ -1582,6 +1630,7 @@ a:hover {
 {
 	padding:3px;
 	font-size:15px;
+  text-align: center;
 }
 
 .lang_block {

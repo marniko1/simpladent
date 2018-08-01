@@ -110,13 +110,13 @@ function input_data($language,$elements, $clElements)
 					<?PHP
 						if(file_exists($pic_path))
 						{
-							echo( '<img src="' . $pic_path . '" alt="" style="width:200px; background-color:white;" />' );
+							echo( '<img src="' . $pic_path . '" alt="" background-color:white;" />' );
 						}
 
 						if($clElements->einleitung->$language != '')
 						{
 							echo('<div class="article">');
-							echo('<br /><blockquote>'.$clElements->einleitung->$language.'</blockquote> </div>');
+							echo('<blockquote>'.$clElements->einleitung->$language.'</blockquote> </div>');
 						}
 					?>					
 					
@@ -176,32 +176,33 @@ function input_data($language,$elements, $clElements)
 							{
 								echo("<a href='$hpage' target='_blank'>$hpage</a>");
 							}*/
+							// var_dump($elements);die;
 					?>
 					</p><form method="post" id="contact">
                         <br />
                         <h2><?php echo $elements->appointments->title; ?></h2>
                         <table>
-							<tr>
-                                <td><?php echo $elements->contact->name ; ?></td>
-                                <td><input type="text" name="name" /> </td>
-                            </tr>
-                            <tr>
-                                <td><?php echo $elements->contact->number ; ?></td>
-                                <td><input type="text" name="phone" /></td>
-                            </tr>
-                            <tr>
-                                <td><?php echo $elements->contact->mail ; ?></td>
-                                <td><input type="text" name="mail" /></td>
-                            </tr>
-                            <tr>
-                                <td><?php echo $elements->appointments->comment ; ?></td>
-                                <td><textarea name="comment" style="width: 203px;"></textarea></td>
-                            </tr>
-                            <tr>
+							<div class="form-group">
+                                <label><?php echo $elements->contact->name ; ?></label>
+                                <input class="form-control" type="text" name="name" />
+                            </div>
+                            <div class="form-group">
+                                <label><?php echo $elements->contact->number ; ?></label>
+                                <input class="form-control" type="text" name="phone" />
+                            </div>
+                            <div class="form-group">
+                                <label><?php echo $elements->contact->mail ; ?></label>
+                                <input class="form-control" type="text" name="mail" />
+                            </div>
+                            <div class="form-group">
+                                <label><?php echo $elements->appointments->comment ; ?></label>
+                                <textarea class="form-control" name="comment"></textarea>
+                            </div>
+                            <div class="form-group">
                                 <input type="text" name="customerID" id="customerID"/>
                                 <input type="hidden" name="city" id="city" value="<?php $clinic?>"/>
-                                <td colspan="2" align="right"><input type="submit" value="<?php echo $elements->contact->send ; ?>" /></td>
-                            </tr>
+                                <input class="btn btn-primary" type="submit" value="<?php echo $elements->contact->send ; ?>" />
+                            </div>
                         </table>
                         </form>
 				</div>

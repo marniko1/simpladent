@@ -14,9 +14,13 @@
 				<div style="clear:both;"></div>				
 			</div>
 				<?PHP
-					$vari=$_GET['ytid'];
+					$vari = '';
+					if (isset($_GET['ytid'])) {
+						$vari=$_GET['ytid'];
+						var_dump($_GET['ytid']);
+					}
 					echo('<script>infofilm="'.$vari.'";</script>');
-				?>				
+				?>			
 					<script>
 						//video_link=['ei969nM_m5c','-F9lwKz-IIc','QszbCpeEiRo','EK7uB7Vt6s8','Pxn77D3P0us'];
 						//video_desc=['Top 3 advantages of Immediate Load Implantation(ILI)','Am I a candidate for Immediate Load Implantation(ILI)?','I have diabetes. Can Immediate Load Implantation(ILI) be a solution for me?','Can I really eat steak 5 days after the start of the treatment?','Is Immediate Load Implantation (ILI) a painless procedure?'];
@@ -29,10 +33,10 @@
 						for(a = 0; a<video_link.length;a++)
 						{
 							//jQuery('#video_link').append('<a href="#video_box"><div id="'+video_link[a]+'" style="background-image: url(http://img.youtube.com/vi/'+video_link[a]+'/0.jpg);" class="video_link_list"><div class="video_link_desc">'+video_desc[a]+'</div></div></a>');
-							jQuery('#video_link').append('<div id="'+video_link[a]+'" style="background-image: url(http://img.youtube.com/vi/'+video_link[a]+'/maxresdefault.jpg);" class="video_link_list"></a>');				
+							jQuery('#video_link').append('<a href="#top"><div id="'+video_link[a]+'" style="background-image: url(http://img.youtube.com/vi/'+video_link[a]+'/maxresdefault.jpg);" class="video_link_list"></div></a>');
 						}
 
-						jQuery('#video_link2').append('<a href="#video_box"><div id="'+video_link_infofilm[0]+'" style="background-image: url(http://img.youtube.com/vi/'+video_link_infofilm[0]+'/0.jpg);" class="video_link_list"><div class="video_link_desc">'+video_desc_infofilm[0]+'</div></div></a>');
+						jQuery('#video_link2').append('<a href="#top"><div id="'+video_link_infofilm[0]+'" style="background-image: url(http://img.youtube.com/vi/'+video_link_infofilm[0]+'/0.jpg);" class="video_link_list"><div class="video_link_desc">'+video_desc_infofilm[0]+'</div></div></a>');
 
 
 						jQuery(document).ready(function() 

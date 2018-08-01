@@ -54,7 +54,7 @@
 				
 					<br />
 					<div class="contactworldmap" style="">
-						<p style="width:464px; float:right;">See all clinics on the <a href="http://simpladent-implant.solutions/?page=map&i=5" target="_blank">world map</a></p>
+						<p style="width:100%; float:right;">Vidite sve naše ordinacije na <a href="http://simpladent-implant.solutions/?page=map&i=5" target="_blank">mapi sveta</a></p>
 					</div>				
 					<br />					
 				

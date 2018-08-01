@@ -29,11 +29,11 @@ and open the template in the editor.
         <phone>BROJ TELEFONA:</phone>
         <mail>E MAIL:</mail>
         <comment>KOMENTAR</comment>
-        <send>VAS TERMIN</send>
+        <send>VAŠ TERMIN</send>
         <getBack>Kontaktiraćemo Vas uskoro</getBack>
     </appointments>
 	<clinic>
-		<addr>Adresse:</addr>
+		<addr>Adresa:</addr>
 	</clinic>
     <footer>
         <mail>
@@ -61,21 +61,21 @@ and open the template in the editor.
         </facebook>
     </footer>
 	<slang>
-		<address>Address</address>
-		<phone>Phone</phone>
+		<address>Adresa</address>
+		<phone>Telefon</phone>
 		<email>E-Mail</email>
-		<homepage>Homepage</homepage>
+		<homepage>Početna strana</homepage>
 		
-		<team>Our Team</team>
-		<doctor>Doctor</doctor>
+		<team>Naš tim</team>
+		<doctor>Doktor</doctor>
 		<office_manager>Office Manager</office_manager>
 		<assistant>Assistants</assistant>
 		<technician>Technicians</technician>
 		<staff>Staff</staff>
 		
-		<clinic>Our Clinic</clinic>
+		<clinic>Naša klinika</clinic>
 		<labor>Our Labor</labor>
-		<additional>Recommended Accommodation</additional>
+		<additional>Preporučeni smeštaj</additional>
 		<website>Link to the Homepage</website>		
 		<!--<manager>Management &amp; Beaufsichtigung</manager>-->		
 	</slang>

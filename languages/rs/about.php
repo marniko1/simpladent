@@ -108,7 +108,7 @@ Ovaj koncept je osmišljen od strane Prof. Dr. Stefan Ihde tokom njegovog rada n
                     <img src="img/about/129x179/14024969171842465584.png" alt="" />-->
                 </a>
                 <a href="img/pdf/CE_Certificate_Simpladent.pdf" class="fancybox cert" data-fancybox-group="cert" target="_blank">
-                    <img src="img/about/certificate/CE_Certificate_Simpladent.png" alt="" />
+                    <img src="/img/about/certificate/CE_Certificate_Simpladent.png" alt="" />
                 </a>
                     </div>
         <div class="article">

@@ -54,8 +54,6 @@ var page = {
             that.subMenu.scrollHandler();
             that.parallax.init()
         }).on('load', function(){
-            // console.log($(window).width());
-            // console.log(window.innerWidth);
             if (window.innerWidth >= 768) {
                 that.slider.init();
             }
@@ -70,7 +68,8 @@ var page = {
                // }
            // }
         //});
-        that.parallax.init()
+        that.parallax.init();
+        that.back_to_top.init();
     },
     specialistSlider:{
         container:"#specialistSlider",
@@ -603,8 +602,29 @@ var page = {
                 $('#main_menu .active').removeClass('showSubmenu');
             }
         }
+    },
+    back_to_top:{
+        offset:600,
+        duration:100,
+        scroll_duration:800,
+        init: function(){
+            var that = this;
+            $(window).scroll(function() {
+                if ($(this).scrollTop() > that.offset) {
+                    $('.back_to_top').fadeIn(that.duration);
+                } else {
+                    $('.back_to_top').fadeOut(that.duration);
+                }
+            });
+            $('.back_to_top').on('click', function(e){
+                e.preventDefault();
+                $('html, body').animate({ scrollTop: $('#top').offset().top }, that.scroll_duration);
+                return false;
+            });
+        }
     }
 }
+// $('.back_to_top').css({"display": "none"});
 page.init();
 function onYouTubeIframeAPIReady() {
     page.video.init();
@@ -693,6 +713,28 @@ jQuery(document).ready(function(){
         $(nav).addClass('d-none');
         $(ul).addClass('d-none');
     });
+
+
+    // $('.back_to_top').css({"display": "none"});
+ 
+    // var offset = 600;
+     
+    // var duration = 100;
+
+    // var scroll_duration = 800;
+     
+    // jQuery(window).scroll(function() {
+     
+    //     if (jQuery(this).scrollTop() > offset) {
+         
+    //         jQuery('.back_to_top').fadeIn(duration);
+             
+    //     } else {
+             
+    //         jQuery('.back_to_top').fadeOut(duration);
+             
+    //     }
+    // });
 })
 // *********************************************************************************************
 

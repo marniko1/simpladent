@@ -10,16 +10,16 @@ and open the template in the editor.
 	<name>Dent32</name>
 	<address>
 		<name>
-			<de>Sipic Dr. Olga</de>
-			<en>Sipic Dr. Olga</en>
-			<ru>Sipic Dr. Olga</ru>
-			<rs>Sipic Dr. Olga</rs>
+			<de>Dr. Olga Sipić</de>
+			<en>Dr. Olga Sipić</en>
+			<ru>Dr. Olga Sipić</ru>
+			<rs>Dr. Olga Sipić</rs>
 		</name>
 		<street>
-			<de>Desanke Maksimovic br. 4/2</de>
-			<en>Desanke Maksimovic br. 4/2</en>
-			<ru>Desanke Maksimovic br. 4/2</ru>
-			<rs>Desanke Maksimovic br. 4/2</rs>
+			<de>Desanke Maksimović br. 4/2</de>
+			<en>Desanke Maksimović br. 4/2</en>
+			<ru>Desanke Maksimović br. 4/2</ru>
+			<rs>Desanke Maksimović br. 4/2</rs>
 		</street>
 		<town>
 			<de>Belgrad</de>
@@ -34,9 +34,8 @@ and open the template in the editor.
 			<rs>Srbija</rs>
 		</land>
 		
-		<email>info@dent-32.com</email>
-		<phone>+381 65 511 11 61</phone>
-		<phone>+381 11 408 56 92</phone>
+		<email>info@simpladent.rs</email>
+		<phone>+381 63 330 601</phone>
 		<homepage>http://dent-32.com/</homepage>
 	</address>
 	<einleitung>
@@ -49,10 +48,10 @@ and open the template in the editor.
 		<doctor>
 			<doc>
 				<name>
-					<de>Sipic Dr. Olga</de>
-					<en>Sipic Dr. Olga</en>
-					<ru>Sipic Dr. Olga</ru>
-					<rs>Sipic Dr. Olga</rs>				
+					<de>Dr. Olga Sipić</de>
+					<en>Dr. Olga Sipić</en>
+					<ru>Dr. Olga Sipić</ru>
+					<rs>Dr. Olga Sipić</rs>				
 				</name>
 				<image>./img/clinics/dent32/za1.jpg</image>
 			</doc>
@@ -60,10 +59,10 @@ and open the template in the editor.
 		<office_manager>
 			<manager>
 				<name>
-					<de>Dr.Tamara Jovanovic</de>
-					<en>Dr.Tamara Jovanovic</en>
-					<ru>Dr.Tamara Jovanovic</ru>
-					<rs>Dr.Tamara Jovanovic</rs>
+					<de>Dr.Tamara Jovanović</de>
+					<en>Dr.Tamara Jovanović</en>
+					<ru>Dr.Tamara Jovanović</ru>
+					<rs>Dr.Tamara Jovanović</rs>
 				</name>
 				<image>./img/clinics/dent32/office_manager.jpg</image>
 			</manager>

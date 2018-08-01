@@ -9,6 +9,7 @@
         <title><?php echo $elements->title;?></title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="img/Swiss.ico" rel="shortcut icon" type="image/x-icon">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
         <link type="text/css" rel="stylesheet" href="scripts/jquery-ui-1.11.1.custom/jquery-ui.css" />
         <link type="text/css" rel="stylesheet" href="scripts/jquery-ui-1.11.1.custom/jquery-ui.structure.min.css" />
         <link type="text/css" rel="stylesheet" href="scripts/jquery-ui-1.11.1.custom/jquery-ui.theme.min.css" /> 
@@ -22,6 +23,9 @@
     	<!--<script src="scripts/lightbox-plus-jquery.min.js"></script>-->	
     	<script type="text/javascript" src="scripts/jquery-1.11.0.min.js"></script>
         <script type="text/javascript" src="bootstrap/bootstrap.js"></script>
+        <script type="text/javascript">
+            jQuery('.back_to_top').css({"display": "none"});
+        </script>
     	
     	<!--<link rel="stylesheet" href="scripts/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
     	<script src="scripts/fancybox/jquery.fancybox.js"></script>-->
@@ -31,6 +35,8 @@
     <body>
 
         <!-- <div id="container"> -->
+        <div id="top"></div>
+        <a href="#top" class="back_to_top"><i class="fas fa-angle-up"></i></a>
         <div class="container">
             <div class="row">
             <!-- Phone Numbers and contacts -->
