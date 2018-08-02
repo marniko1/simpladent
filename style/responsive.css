@@ -64,6 +64,9 @@
 	  width: 30%;
 	  margin-left: 65px;
 	}
+	#costSection_2 .cost_variants ol li .img img {
+		width: 100%;
+	}
 	#costSection_2 .cost_variants ol li .text {
 	  float: right;
 	  width: 50%;
@@ -84,6 +87,9 @@
 	}
 }
 @media (min-width: 768px) {
+	body .back_to_top:hover {
+	  background-color: #343434;
+	}
 	#wrapper .in {
 	  width: 70%;
 	  margin: 0 auto;
@@ -114,6 +120,9 @@
 	}
 	#wrapper .main_block {
 	  width: 60%;
+	}
+	#questionsSection_1 .main_block {
+	  width: 100%;
 	}
 	#aboutSection_2 .img {
 		display: block;

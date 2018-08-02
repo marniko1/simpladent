@@ -55,38 +55,7 @@ echo '</ul></nav></div>';
 ?>
 
 
-<!-- <div class="lr_menu">
-    <div class="col-12 tab lr_menu_button">MENU</div>
-    <nav class="col-12 d-none">
-        <ul>
-            <li class="tab nav-item rounded mt-2 hasSubMenu"><a href="#">o nama</a>
-                submenu
-                <ul class="sub_menu d-none">
-                    <li class="sub_menu"><a href="#">istorija</a></li>
-                    <li class="sub_menu"><a href="#">nas pristup</a></li>
-                    <li class="sub_menu"><a href="#">sertifikat</a></li>
-                    <li class="sub_menu"><a href="#">recenzije</a></li>
-                </ul>
-            </li>
-            <li class="tab nav-item rounded hasSubMenu"><a href="#">metodologija</a>
-                submenu
-                <ul class="sub_menu d-none">
-                    <li class="sub_menu"><a href="#">implantologija</a></li>
-                    <li class="sub_menu"><a href="#">vrste implantata</a></li>
-                    <li class="sub_menu"><a href="#">faze tretmana</a></li>
-                    <li class="sub_menu"><a href="#">poredjenje metoda</a></li>
-                    <li class="sub_menu"><a href="#">indikacije</a></li>
-                    <li class="sub_menu"><a href="#">pre i posle</a></li>
-                    <li class="sub_menu"><a href="#">garancija</a></li>
-                </ul>
-            </li>
-            <li class="tab nav-item rounded"><a href="#">faq</a></li>
-            <li class="tab nav-item rounded"><a href="#">video</a></li>
-            <li class="tab nav-item rounded"><a href="#">tretman</a></li>
-            <li class="tab nav-item rounded"><a href="#">kontakt</a></li>
-        </ul>
-    </nav>
-</div> -->
+<!-- low resolution menu -->
 
 <div class="lr_menu">
     <div class="col-12 tab lr_menu_button"><?php echo $menu->menu_bar;?></div>

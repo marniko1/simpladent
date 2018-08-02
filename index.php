@@ -1,4 +1,5 @@
 <?php session_start();
+// session_destroy();
 
    include 'includes/init.php';
 ?>
@@ -18,23 +19,10 @@
         <link type="text/css" rel="stylesheet" href="style/clinic.css" />
         <link rel="stylesheet" type="text/css" href="style/responsive.css">
         <link rel="stylesheet" type="text/css" href="style/jquery.fancybox.css?v=2.1.5" media="screen" />
-        <!--<link type="text/css" rel="stylesheet" href="style/lightbox.min.css" />-->
-        <!--<script type="text/javascript" src="scripts/jquery-3.1.1.min.js"></script>-->
-    	<!--<script src="scripts/lightbox-plus-jquery.min.js"></script>-->	
     	<script type="text/javascript" src="scripts/jquery-1.11.0.min.js"></script>
         <script type="text/javascript" src="bootstrap/bootstrap.js"></script>
-        <script type="text/javascript">
-            jQuery('.back_to_top').css({"display": "none"});
-        </script>
-    	
-    	<!--<link rel="stylesheet" href="scripts/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
-    	<script src="scripts/fancybox/jquery.fancybox.js"></script>-->
-
     </head>
-
     <body>
-
-        <!-- <div id="container"> -->
         <div id="top"></div>
         <a href="#top" class="back_to_top"><i class="fas fa-angle-up"></i></a>
         <div class="container">
@@ -135,7 +123,7 @@
             <!-- Main content -->
             <div id="wrapper">
 
-                <?php 
+                <?php
                     $alloed = array('about', 'methology', 'video', 'price', 'contact', 'question','clinic','impressum');
                     
                     if(!isset($_GET['page'])){
@@ -198,25 +186,17 @@
                         </li>
             			<li>
             				<a href="/index.php?page=impressum&i=10"><b>Impressum</b></a>
-            			</li>            
-                        <!--<li class="twitter">
-                            <div class="name">Twitter</div>
-                            <div class="text"><a href="#">@simpladent</a></div>
-                            <div class="clear"></div>
-                        </li>-->
+            			</li>
                     </ul>
                     <div class="clear"></div>
                 </div>
             <!-- end footer -->
         </div>
-
-        <!--<script type="text/javascript" src="scripts/jquery-ui-1.12.1/jquery-ui.min.js"></script>-->
         <script type="text/javascript" src="scripts/jquery-ui-1.11.1.custom/jquery-ui.min.js"></script>
         <script type="text/javascript" src="scripts/fancybox/jquery.fancybox.js?v=2.1.5"></script>
         <script type="text/javascript" src="scripts/jquery.carouFredSel-6.2.1-packed.js"></script>
         <script type="text/javascript" src="scripts/jquery.maskedinput.js"></script>
         <script type="text/javascript" src="https://www.youtube.com/iframe_api"></script>
-        <!--<script src="scripts/lightbox-plus-jquery.min.js"></script>-->
         <script type="text/javascript" src="scripts/function.js"></script>
         <script>
             $(function(){

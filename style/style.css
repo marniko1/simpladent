@@ -53,9 +53,6 @@ body .back_to_top {
     text-decoration: none;
     transition: all .5s ease;
 }
-body .back_to_top:hover {
-  background-color: #343434;
-}
 .clear {
   clear: both;
 }
@@ -97,7 +94,6 @@ a:hover {
   top: 0;
   left: 0;
   width: 100%;
-  /*min-width: 1000px;*/
   z-index: 1001;
   background: #ffffff;
 }
@@ -147,22 +143,15 @@ a:hover {
   margin: 0 auto;
 }
 #main_menu {
-  /*padding-top: 7px;*/
-  /*text-align: right;*/
   position: relative;
   display: none;
 }
 #main_menu > nav {
   padding-bottom: 0;
 }
-/*#main_menu > ul {
-  float: right;
-}*/
 #main_menu > nav > ul > li {
   margin-left: 10px;
   display: block;
-  /*list-style: none;*/
-  /*float: left;*/
 }
 #main_menu > nav > ul > li.hasSubMenu.active:after {
   width: 0;
@@ -190,8 +179,6 @@ a:hover {
   position: absolute;
   left: -43%;
   right: -4%;
-  /*right: 0;*/
-  /*left: 0;*/
   top: 0;
   margin-top: 50px;
   background: #f1f1f1;
@@ -290,11 +277,6 @@ a:hover {
   border-radius: 5px;
 }
 /**********************************************************/
-
-
-
-
-
 #wrapper {
   padding-top: 80px;
   overflow: hidden;
@@ -308,17 +290,11 @@ a:hover {
   position: relative;
   z-index: -1;
 }
-.main_section {
-  /*margin-top: -143px;*/
-  /*padding-top: 143px;*/
-  /*padding: 0 3%;*/
-}
 #methSection_1 {
   padding-bottom: 30px;
 }
 .section {
   clear: both;
-  /*background-color: #F9F9F9;*/
   padding: 0 2%;
 }
 .section p {
@@ -326,7 +302,6 @@ a:hover {
 }
 .section > .img {
   float: left;
-  /*width: 236px;*/
 }
 .section > .img:after {
   display: block;
@@ -340,11 +315,9 @@ a:hover {
   padding: 0;
 }
 #wrapper .main_block {
-  /*margin-top: -143px;*/
   background: #f9f9f9;
   float: right;
   width: 100%;
-  /*width: 500px;*/
   padding: 43px 5% 60px;
   margin-bottom: 20px;
   text-align: justify;
@@ -378,7 +351,6 @@ a:hover {
 #methSection_1 .benefits .article {
   padding: 0 36px 30px;
   float: right;
-  /*width: 500px;*/
 }
 #methSection_1 .info .article {
   padding: 0 2%;
@@ -408,30 +380,9 @@ a:hover {
   right: -45px;
   background-position: -29px 0;
 }
-/*horizontal*/
-/*.slider li {
-  list-style: none;
-  float: left;
-}*/
-
-/*vertical*/
 .slider li {
   list-style: none;
-  /*float: left;*/
 }
-
-/*********************************************************************/
- /*
-
-
-                   methodology page slider
-
-
-
-
-
- */
-/*********************************************************************/
 /*horizontal*/
 #methSection_2 .slider {
   margin-right: -11px;
@@ -482,7 +433,6 @@ a:hover {
   line-height: 14px;
   font-weight: bold;
 }
-/******************************************************************************************/
 #methSection_3 {
     border-top: 1px solid #555555;
     padding-top: 45px;
@@ -497,8 +447,6 @@ a:hover {
   width: 100%;
 }
 #methSection_3 .article {
-  /*float: right;*/
-  /*width: 464px;*/
   margin-bottom: 80px;
 }
 #methSection_3 .article p {
@@ -508,64 +456,6 @@ a:hover {
   counter-reset: list;
   padding-left: 5%;
 }
-/*************************************************************************************/
-/*                                                                                   */
-/*                                                                                   */
-/*                                                                                   */
-/*                                                                                   */
-/*                               counter                                             */
-/*                                                                                   */
-/*                                                                                   */
-/*                                                                                   */
-/*                                                                                   */
-/*************************************************************************************/
-/*horizontal*/
-/*#methSection_3 .steps li {
-  float: left;
-  list-style: none;
-  position: relative;
-  padding-top: 88px;
-  width: 118px;
-  font-size: 11px;
-  color: #000000;
-  line-height: 16px;
-}*/
-/*#methSection_3 .steps li:before {
-  height: 60px;
-  width: 60px;
-  border: 5px solid #e4312f;
-  border-radius: 50%;
-  text-align: center;
-  line-height: 50px;
-  font-size: 26px;
-  color: #e4312f;
-  font-weight: bold;
-  counter-increment: list;
-  content: counter(list);
-  position: absolute;
-  top: 0;
-  left: 0;
-}*/
-/*horizontal*/
-/*#methSection_3 .steps li + li {
-  margin-left: 35px;
-}*/
-/*#methSection_3 .steps li + li:after {
-  width: 79px;
-  height: 1px;
-  background: #d4d4d4;
-  position: absolute;
-  left: -87px;
-  top: 30px;
-  content: '';
-}*/
-
-
-
-
-
-
-/*************/
 /*vertical*/
 #methSection_3 .steps li {
   list-style: none;
@@ -604,17 +494,6 @@ a:hover {
   top: -60px;
   content: '';
 }
-/*************************************************************************************/
-/*                                                                                   */
-/*                                                                                   */
-/*                                                                                   */
-/*                                                                                   */
-/*                               end of counter                                      */
-/*                                                                                   */
-/*                                                                                   */
-/*                                                                                   */
-/*                                                                                   */
-/*************************************************************************************/
 #methSection_4 {
   border-top: 1px solid #555555;
   padding-top: 95px;
@@ -624,9 +503,6 @@ a:hover {
   max-width: 450px;
   margin-bottom: 50px;
 }
-/*#methSection_4 .compare_block {
-  width: 624px;
-}*/
 #methSection_4 .compare_block .header {
   text-align: center;
   font-size: 35px;
@@ -773,9 +649,8 @@ a:hover {
   color: #e30613;
 }
 #methSection_5 {
-    padding-top: 40px;
-    border-top: 1px solid #888888;
-
+  padding-top: 40px;
+  border-top: 1px solid #888888;
   padding-bottom: 50px;
 
 }
@@ -786,13 +661,9 @@ a:hover {
   float: left;
   width: 100%;
 }
-#methSection_5 .columns .col + .col {
-  /*margin-left: 14%;*/
-}
 #methSection_6 {
-    padding-top: 50px;
-    border-top: 1px solid #555555;
-
+  padding-top: 50px;
+  border-top: 1px solid #555555;
   padding-bottom: 80px;
 }
 #methSection_6 .slider .left_arr,
@@ -801,7 +672,6 @@ a:hover {
   margin-top: -15px;
 }
 #methSection_6 .slider li .imgs {
-  /*float: left;*/
   display: inline-block;
   width: 100%;
 }
@@ -813,16 +683,12 @@ a:hover {
   margin-left: 1%;
   float: right;
 }
-/*#methSection_6 .slider li .text {
-  margin-left: 470px;
-}*/
 #methSection_6 .slider li .text .article {
   font-size: 12px;
 }
 #methSection_7 {
-
-    padding-top: 80px;
-    border-top: 1px solid #555555;
+  padding-top: 80px;
+  border-top: 1px solid #555555;
  padding-bottom: 60px;
 }
 #methSection_7 h1 {
@@ -839,7 +705,6 @@ a:hover {
   font-weight: bold;
   text-transform: uppercase;
   color: #000000;
-  /*letter-spacing: 0.75em;*/
   margin-bottom: 5px;
 }
 #methSection_7 .myths .myth_block .myth .text {
@@ -883,7 +748,6 @@ a:hover {
   font-size: 15px;
   line-height: 24px;
   letter-spacing: 0.03em;
-  /*padding-left: 36px;*/
   width: 100%;
 }
 #methSection_8 .article p {
@@ -893,7 +757,6 @@ a:hover {
   height: 272px;
 }
 #footer {
-  /*height: 222px;*/
   margin-top: -222px;
 }
 #footer .in {
@@ -904,9 +767,6 @@ a:hover {
   float: left;
   width: 42%;
 }
-/*#footer .contacts_col + .contacts_col {
-  margin-left: 6%;
-}*/
 #footer .contacts_col li {
   list-style: none;
   font-size: 11px;
@@ -968,7 +828,6 @@ a:hover {
   float: left;
   margin-bottom: 250px;
   margin-left: 10%;
-  /*background-color: #F9F9F9;*/
 }
 #aboutSection_1 .author .img {
   margin-bottom: 45px;
@@ -987,7 +846,6 @@ a:hover {
 #aboutSection_1 .info {
   display: none;
   float: left;
-  /*width: 200px;*/
   width: 30%;
   padding-left: 2%;
 }
@@ -1116,7 +974,6 @@ a:hover {
 }
 #aboutSection_4 .certificates {
   float: left;
-  /*width: 380px;*/
   width: 50%;
   text-align: center;
 }
@@ -1159,9 +1016,6 @@ a:hover {
   top: 50%;
   margin-top: -15px;
 }
-/*.reviews_list {
-  padding: 0 90px 0 110px;
-}*/
 .reviews_list .review + .review {
   margin-top: 30px;
 }
@@ -1172,9 +1026,6 @@ a:hover {
 .reviews_list .review .auth .img {
   margin-bottom: 5px;
   width: 100%;
-}
-.reviews_list .review .auth .img img {
-  /*width: 100%;*/
 }
 .reviews_list .review .auth .text .name {
   font-size: 11px;
@@ -1307,22 +1158,13 @@ a:hover {
   font-weight: 600;
   color: #7c7c7c;
 }
-/*#costSection_2 .cost_variants ol li .img {
-  float: left;
-  width: 30%;
-  margin-left: 65px;
-}*/
 #costSection_2 .cost_variants ol li .img img {
   margin: 0 auto;
   margin-bottom: 10px;
 }
 #costSection_2 .cost_variants ol li .text {
-  /*float: right;*/
   width: 100%;
 }
-/*#costSection_2 .cost_variants ol li .text .example {
-  margin: 0 auto;
-}*/
 #costSection_2 .cost_variants ol li .text > .text {
   float: none;
   width: 100%;
@@ -1343,7 +1185,6 @@ a:hover {
 }
 #costSection_2 .cost_variants ol li .text .example {
   margin: 0 auto;
-  /*margin-left: -35px;*/
   padding-left: 34px;
   width: 60%;
   border-left: 1px solid #e96969;
@@ -1595,18 +1436,10 @@ a:hover {
   top: 50%;
   margin: -30px 0 0 -30px;
 }
-
-.video_site
-{
-	/*width:640px;*/
-}
-#video_box
-{
-	/*width:640px;*/
+#video_box {
 	height:360px;
 }
-#video_link
-{
+#video_link {
 	display:flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
@@ -1614,8 +1447,7 @@ a:hover {
 #video_link a {
   width: 100%;
 }
-.video_link_list
-{
+.video_link_list {
 	width:100%;
 	height:171px;
 	margin:0 0 15px 0;
@@ -1626,8 +1458,7 @@ a:hover {
 	cursor:pointer;
 	
 }
-.video_link_desc
-{
+.video_link_desc {
 	padding:3px;
 	font-size:15px;
   text-align: center;
@@ -1881,7 +1712,6 @@ h2 {
 .article ol li {
   list-style: none;
   padding-left: 55px;
-  /*margin-left: -55px;*/
   position: relative;
 }
 .article ol li:before {
@@ -1949,44 +1779,33 @@ h2 {
   background-color:white;
 }****************************/
 
-.picturepopup_box
-{
+.picturepopup_box {
 	/*overflow:hidden;
 	width:100%;
 	height:100%;*/
 }
-
-.picturepopup_div
-{
+.picturepopup_div {
 	position:fixed;
 	width:100%;
 	height:100%;
 	border:1px solid grey;
-	/*padding-top:200px;*/
 	background:rgba(50,50,50,0.7);
 	z-index:2000;
-
 }
-
-.picturepopup_picture_box
-{
+.picturepopup_picture_box {
 	width:80%;
 	max-width:800px;
 	height:auto;
-	/*argin: 200px 0 0 200px;*/
 	margin-top:10%;
 	background-color:grey;
-	/*position:fixed;*/
 	z-index:2001;
 	border:10px solid #FFFFFF;
 	box-shadow:2px 2px 20px #000000;
 }
-.picturepopup_picture_box img
-{
+.picturepopup_picture_box img {
 	width:100%;
 }
-.picturepopup_picture_close
-{
+.picturepopup_picture_close {
 	height:35px;
 	width:35px;
 	position:relative;
@@ -1996,17 +1815,9 @@ h2 {
 	border-radius:15px;
 	border: 4px solid white;
 	font-size:21px;
-	color:White;
+	color: white;
 	cursor:pointer;
 	text-align:center;
 	font-weight:bold;
 	background-color:black;
-
 }
-
-
-
-
-
-
-

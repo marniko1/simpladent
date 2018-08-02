@@ -609,7 +609,7 @@ var page = {
         scroll_duration:800,
         init: function(){
             var that = this;
-            $(window).scroll(function() {
+            $(window).on('scroll', function() {
                 if ($(this).scrollTop() > that.offset) {
                     $('.back_to_top').fadeIn(that.duration);
                 } else {
@@ -619,8 +619,6 @@ var page = {
             $('.back_to_top').on('click', function(e){
                 e.preventDefault();
                 $.when($('html, body').stop()).done(function(){
-                    var s = $('html, body').stop();
-                    console.log(s);
                     $('html, body').animate({ scrollTop: $('#top').offset().top }, that.scroll_duration);
                 });
                 return false;
@@ -628,7 +626,6 @@ var page = {
         }
     }
 }
-// $('.back_to_top').css({"display": "none"});
 page.init();
 function onYouTubeIframeAPIReady() {
     page.video.init();

@@ -2,7 +2,7 @@
     
 }
 #clinicSection_1 .author {
-	padding: 0 2%;
+	padding: 1% 2%;
 }
 #clinicSection_1 .author .img {
   width: 100%;
@@ -27,15 +27,12 @@
   float: left;
   width: 200px;
 }
-
 #clinicSection_1 textarea {
 	height: 200px;
 }
-
-
 #clinicSection_2 {
 	margin: 0 auto;
-  margin-bottom: 35px;
+  	margin-bottom: 35px;
 }
 #clinicSection_2 .img {
   width: 308px;
