@@ -6,8 +6,7 @@
                     <h1>Kontakt</h1>
                     <div class="article">
                         <h2>Kontaktirajte nas telefonom:</h2>
-                        <p>+381 65 511 11 61<br />
-						+381 11 408 56 92</p> 
+                        <p>+381 63 330 601</p> 
                         <h2>Email:</h2>
                         <p><a href="mailto:info@simpladent.hr">info@simpladent.rs</a></p>
                     </div>
