@@ -3,7 +3,8 @@
   require_once('../recaptcha/recaptchalib.php');
   require_once('../init.php');
   
-  $clinic = filter_input(INPUT_POST, 'city');
+  // $clinic = filter_input(INPUT_POST, 'city');
+  $clinic = 'dent32';
   $bot = filter_input(INPUT_POST, 'CustomerID');
   //if(strpos('.', $clinic) || strpos('/', $clinic)){
 	  // Display Errror

@@ -679,8 +679,8 @@ function onYouTubeIframeAPIReady() {
 					
 //**************************Map Point Click*************************
 jQuery('.city').click(function(){
-    window.location.href = "/simpladent/?page=clinic&c="+jQuery(this).attr('id')+'&i=10';
-	// window.location.href = "/?page=clinic&c="+jQuery(this).attr('id')+'&i=10';
+    // window.location.href = "/simpladent/?page=clinic&c="+jQuery(this).attr('id')+'&i=10';
+	window.location.href = "/?page=clinic&c="+jQuery(this).attr('id')+'&i=10';
 });
 
 
