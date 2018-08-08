@@ -9,8 +9,8 @@
     <div class="main_block">
         <h1>Sofortimplantologie heute:</h1>
         <div class="article">
-            <h2>Was ist ein“Strategic Implant”?</h2>
-            <p>Der Begriff "Stratgic Implant" ist heute ein geschütztes Warenzeichen für die Implantate der Simpladent GmbH, der Begriff "basale Implantologie" wurde ca. im Jahre 1999 erstmals verwendet. Zu dieser Zeit begann einer der größten Durchbrüche in der dentalen Implantologie: Die Technologie der Sofortbelastung wurde entwickelt. Mit Hilfe des Strategic Implant<sup>®</sup> wurde sowohl das Problem des reduzierten Knochenangebots gelöst, zudem können heute auch Diabetiker und andere Patienten mit Begleiterkrankungen behandelt werden.</p>
+            <h2>Was ist ein “Strategic Implant<sup>®</sup>”?</h2>
+            <p>Der Begriff "Strategic Implant<sup>®</sup>" ist heute ein geschütztes Warenzeichen für die Implantate der Simpladent GmbH, der Begriff "basale Implantologie" wurde ca. im Jahre 1999 erstmals verwendet. Zu dieser Zeit begann einer der größten Durchbrüche in der dentalen Implantologie: Die Technologie der Sofortbelastung wurde entwickelt. Mit Hilfe des Strategic Implant<sup>®</sup> wurde sowohl das Problem des reduzierten Knochenangebots gelöst, zudem können heute auch Diabetiker und andere Patienten mit Begleiterkrankungen behandelt werden.</p>
             <p>Jedes Implantat wird mindestens an zwei Orten im Kortikalknochen verankert. Dieser Knochen weist hohe Stabilität auf, er vermag sofort die Kaulast aufzunehmen und er resorbiert im Laufe des Lebens praktisch nicht. Knochenaufbau, Sinuslift, Wartezeiten und Knochentransplantate sind heute daher nicht mehr nötig.</p>
             <p>Daher können wir heute, mit der Technologie der strategischen Implantologie, auch bei starkem Knochenrückgang erfolgreich behandeln und den Patienten in wenigen Tagen ein zufriedenes Lächeln zurück geben.</p>
         </div>
@@ -427,7 +427,7 @@
                     </div>
                     <div class="text">
                         <div class="article">
-							<p>Beispiel 1: Dieser Patient benutzte herausnehmbare Prothesen auf Teleskopen über 12 Jahre hinweg.  In einem einzigen Eingriff entfernten wir alle diese Zähne und setzten 19 Implantate vom Typ "Strategic Implant&reg;.  Innerhalb von 3 Tagen wurden die neuen, festsitzenden Brücken angefertigt und unser Patient konnte sofort normal essen. Unsere Behandlung aht das Leben dieses Patienten schlagartig zum Besseren verändert und er gewann sofort sehr viel Selbstvertrauen.</p>
+							<p>Beispiel 1: Dieser Patient benutzte herausnehmbare Prothesen auf Teleskopen über 12 Jahre hinweg.  In einem einzigen Eingriff entfernten wir alle diese Zähne und setzten 19 Implantate vom Typ "Strategic Implant&reg;".  Innerhalb von 3 Tagen wurden die neuen, festsitzenden Brücken angefertigt und unser Patient konnte sofort normal essen. Unsere Behandlung aht das Leben dieses Patienten schlagartig zum Besseren verändert und er gewann sofort sehr viel Selbstvertrauen.</p>
                         </div>
                     </div>
                     <div class="clear"></div>
@@ -497,7 +497,7 @@
         <p>Alle Simpladent-Implantate werden vom Hersteller mit lebenslanger Garantie ausgeliefert. Dies bedeutet, dass die Implantate kostenfrei vom Hersteller ersetzt werden.</p>
         <p>Garantie auf medizinische Dienstleistungen kann grundsätzlich nicht gewährt werden, da der Erfolg der Behandlung wesentlich von der Heilung des Patienten abhängt. Dennoch leisten die Mitglieder der Simpladent-Gruppe meistens über Jahre hinweg kostenfreie oder preiswerte medizinische Hilfe, wenn einzelne Implantate unerwartet ausgewechselt werden müssen. Der Zeitraum dieser Art von Garantie beträgt 4 Jahre.</p>
         <p>Bitte beachten Sie, dass zur Erhaltung der Garantie regelmäßige Kontrolluntersuchungen in einer autorisierten Simpladent-Klinik nötig sind.</p>
-        <p>Die Simpladent-Garantie kann prinzipiell in jeder Klinik in Anspruch genommen werden (ausgnommen z.Zt. in Russland).</p>
+        <p>Die Simpladent-Garantie kann prinzipiell in jeder Klinik in Anspruch genommen werden.</p>
     </div>
     <div class="clear"></div>
 </div>

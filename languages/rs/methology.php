@@ -8,9 +8,9 @@
     <div class="main_block">
         <h1>IMPLANTOLOGIJA</h1>
         <div class="article">
-            <h2>Šta je "Bazalna implantologija" / Strategic implantologija?</h2>
-            <p>Termin "bazalna implantologija" pojavio se pre više od 15 godina. Tada je počeo napredak u modernoj dentalnoj implantologiji. Razvijene su tehnologije za svladavanje najtežih slučajeva atrofije kada se činilo da ne postoji način da se pomogne pacijentu. Danas I pacijenti sa dijebetesom I ostalim medicinskim problemima mogu biti tretirani uz pomoć bazalnih implantata.</p>
-            <p>Svaki implantat je fiksiran na najmanje dva mesta u kortikalnoj kosti. Ova kost poseduje visok nivo mineralizacije. Implantati se ugrađuju isključivo u kost velike gustine, koju svi poseduju u dovoljnoj količini.</p>
+            <h2>Šta je "Strategic Implant<sup>®</sup>"?</h2>
+            <p>Termin Strategic Implant<sup>®</sup> pojavio se pre više od 15 godina. Tada je počeo napredak u modernoj dentalnoj implantologiji. Razvijene su tehnologije za svladavanje najtežih slučajeva atrofije kada se činilo da ne postoji način da se pomogne pacijentu. Danas I pacijenti sa dijebetesom I ostalim medicinskim problemima mogu biti tretirani uz pomoć Strategic Implant<sup>®</sup>.</p>
+            <p>Svaki Strategic Implant<sup>®</sup> je fiksiran na najmanje dva mesta u kortikalnoj kosti. Ova kost poseduje visok nivo mineralizacije. Strategic Implant<sup>®</sup> se ugrađuju isključivo u kost velike gustine, koju svi poseduju u dovoljnoj količini.</p>
             <p>Kortikalna kost je veoma pogodna za transmisiju opterećenja zahvaljujući visokom nivou mineralizacije. Pruža mogućnost za rad u protokolu imedijantnog opterećenja. Prema tome, čak I u slučajevima velikog gubitka kosti I dugogodišnje potpune bezubosti, pacijent može imati prekrasan osmeh u roku nekoliko dana, maksimalno 3.</p>
         </div>
     </div>
@@ -18,21 +18,21 @@
     <div class="note">Više od 1 000 000 implantata je ugrađeno, na hiljade zadovoljnih pacijenata iz nemerljivog broja zemalja širom sveta.</div>
     <div class="benefits">
         <div class="article">
-            <h2>6 prednosti Strategic Implantata:</h2>
+            <h2>6 prednosti Strategic Implant<sup>®</sup>:</h2>
             <ol>
                 <li>Svi pacijenti kojima su implantati neophodni mogu biti tretirani (bez izuzetka) i bez obzira na stepen gubitka kosti i prisustsvo ili nedostatak vlastitih zuba.</li>
-                <li>Potrebna je samo jedna intervencija. Strategic Implantati su povezani (trajnim ili privremenim) mostovima ubrzo nakon ugradnje. Ukoliko je potrebno, drugi most (po želji može biti napravljen od drugog materijala) moguće je postaviti 6-9 meseci kasnije. U većini slučajeva prvi most je ujedno I definitivni.</li>
+                <li>Potrebna je samo jedna intervencija. Strategic Implant<sup>®</sup> su povezani (trajnim ili privremenim) mostovima ubrzo nakon ugradnje. Ukoliko je potrebno, drugi most (po želji može biti napravljen od drugog materijala) moguće je postaviti 6-9 meseci kasnije. U većini slučajeva prvi most je ujedno I definitivni.</li>
                 <li>Nizak broj hirurških I ostalih tretmana značajno smanjuje ukupne troškove u poređenju sa ostalim tradicionalnim metodama. Brze I efikasne mere će biti preduzete od strane naših specijalista ukoliko dođe do bilo kakavih komplikacija.</li>
-                <li>Implantati malog prečnika gotovo uopšte ne utiču na dotok krvi u kost, u svakom slučaju mnogo manje u poređenju sa konvencionalnim implantatima.</li>
-                <li>Budući da se Strategic Imaplantati mogu (moraju) imedijantno opterećivati, pacijenti se izuzetno brzo mogu vratiti svakodnevnom životu.</li>
-				<li>Implantati poliranih površina su gotovo oslobođeni opasne infekcije oko implantata: nije pronađen periimplantitis (videti:<a href="http://www.peri-implantitis.info/en/" target="_blank"> www.peri-implantitis.info</a> da se informišete o ovom problemu koji je povezan sa konvencionalnim dentalnim implantatima).</li>
+                <li>Strategic Implant<sup>®</sup> malog prečnika gotovo uopšte ne utiču na dotok krvi u kost, u svakom slučaju mnogo manje u poređenju sa konvencionalnim implantatima.</li>
+                <li>Budući da se Strategic Implant<sup>®</sup> mogu (moraju) imedijantno opterećivati, pacijenti se izuzetno brzo mogu vratiti svakodnevnom životu.</li>
+				<li>Strategic Implant<sup>®</sup> poliranih površina su gotovo oslobođeni opasne infekcije oko implantata: nije pronađen periimplantitis (videti:<a href="http://www.peri-implantitis.info/en/" target="_blank"> www.peri-implantitis.info</a> da se informišete o ovom problemu koji je povezan sa konvencionalnim dentalnim implantatima).</li>
             </ol>
         </div>
     </div>
     <div class="clear"></div>
     <div class="info">
         <div class="article">
-            <p>U poslednjoj deceniji, zahvaljujući marljivom radu hirurga i istraživačkog centra Simpladent/Švajcarska ( <a href="http://ihde.com/" target="_blank">www.ihde.com</a> ) u saradnji sa International Implant Foundation ( <a href="http://www.implantfoundation.org/" target="_blank">www.implantfoundation.org</a> ), Strategic implantologija dostigla je visok nivo perfekcije. Tehnologija kombinuje upotrebu kortikalne kosti uz pomoć patentiranih BECES<sup>&reg;</sup> implantata.</p>
+            <p>U poslednjoj deceniji, zahvaljujući marljivom radu hirurga i istraživačkog centra Simpladent/Švajcarska ( <a href="http://ihde.com/" target="_blank">www.ihde.com</a> ) u saradnji sa International Implant Foundation ( <a href="http://www.implantfoundation.org/" target="_blank">www.implantfoundation.org</a> ), Strategic Implant<sup>®</sup> dostigla je visok nivo perfekcije. Tehnologija kombinuje upotrebu kortikalne kosti uz pomoć patentiranih BECES<sup>&reg;</sup> implantata.</p>
             <p>Simpladent GmbH je razvio revolucionaran koncept tretmana u saradnji sa maksilo-facijalnim odsekom Beogradskog Univerziteta (Prof.V.Konstantinović, Prof.Lazić). Oni su istinski pioniri i vodeći svetski specijalisti u ovom polju, npr. ugradnja lateralnih i šraf srtategic implantata u frontalnu kost, mastoidnu kost i glabelu.</p>
             <p>Naravno, dalji razvoj implantata se neće zaustaviti ovde. Simpladent GmbH sarađuje sa vodećim istraživačkim institucijama širom sveta. Danas, implantati proizvedeni od strane Simpladent GmbH su najbolji sistemi implantata za imedijatno opterećenje trenutno dostupni.</p>
         </div>
@@ -107,18 +107,18 @@
                     </ul>
         </div>
         <div class="article">
-            <blockquote>U klinikama Simpladent grupe koriste se samo moderni, patentirani Strategic Implantati I originalni delovi proizvedeni u fabrici Simpladent GmbH,Švajcarska.</blockquote>
+            <blockquote>U klinikama Simpladent grupe koriste se samo moderni, patentirani Strategic Implant<sup>®</sup> I originalni delovi proizvedeni u fabrici Simpladent GmbH, Švajcarska.</blockquote>
         </div>
     </div>
 
 <div class="section" id="methSection_3">
-    <h1>PROCEDURA POSTAVLJANJA BAZALNIH IMPLANTATA</h1>
+    <h1>PROCEDURA POSTAVLJANJA Strategic Implant<sup>®</sup></h1>
     <div class="img">
         <img src="img/metholoy/img6.jpg" alt="" />
     </div>
     <div class="article">
-        <p>1.Pregled usne duplje i rendgenskog snimka obezbeđen je od strane ordinirajućeg stomatologa. Posle detaljnih objašnjenja i odgovaranja na pitanja vezana za tretman, određuje se datum tretmana. 2. Tretman često počinje odmah, jer mere predostrožnosti potrebne kod tretmana konvencionalnim implantatima (preoperativno poboljšanje oralne higijene, periodontalni tretman itd) nisu potrebne ako se sprovodi tretman Strategic implantatima ukoliko se zubi koji su deo tretmana jednostavno odstrane.</p>
-        <p>Na dan operacije ukoliko je potrebno odstranjuju se zubi I odmah ugrađuju implantati. Odmah nakon ugradnje implantata započinje se sa protetskim tretmanom : uzimanje otiska I registrovanje zagrižaja. Posle nekoliko sati, a maksimalno u toku sledećeg dana metalni ram mosta ili plastični šablon (za cirkonijum) će biti napravljeni, probani na pacijentu i podešeni. U toku drugog ili trećeg postoperativnog dana fiksira se most. Tog dana mozete isprobati sve mogućnosti Vaših novih zuba - da jedete, smejete se, pričate.</p>
+        <p>1.Pregled usne duplje i rendgenskog snimka obezbeđen je od strane ordinirajućeg stomatologa. Posle detaljnih objašnjenja i odgovaranja na pitanja vezana za tretman, određuje se datum tretmana. 2. Tretman često počinje odmah, jer mere predostrožnosti potrebne kod tretmana konvencionalnim implantatima (preoperativno poboljšanje oralne higijene, periodontalni tretman itd) nisu potrebne ako se sprovodi tretman Strategic Implant<sup>®</sup> ukoliko se zubi koji su deo tretmana jednostavno odstrane.</p>
+        <p>Na dan operacije ukoliko je potrebno odstranjuju se zubi I odmah ugrađuju implantati. Odmah nakon ugradnje implantata započinje se sa protetskim tretmanom: uzimanje otiska I registrovanje zagrižaja. Posle nekoliko sati, a maksimalno u toku sledećeg dana metalni ram mosta ili plastični šablon (za cirkonijum) će biti napravljeni, probani na pacijentu i podešeni. U toku drugog ili trećeg postoperativnog dana fiksira se most. Tog dana mozete isprobati sve mogućnosti Vaših novih zuba - da jedete, smejete se, pričate.</p>
     </div>
     <div class="clear"></div>
     <ol class="steps clearfix">
@@ -139,7 +139,7 @@
     <table>
         <tr>
             <td class="type1">
-                <div class="name">Strategic Implantati</div>
+                <div class="name">Strategic Implant<sup>®</sup></div>
             </td>
             <td>faza </td>
             <td class="type2">
@@ -350,7 +350,7 @@
     <div class="columns">
         <div class="col">
             <div class="article">
-                <h2>Indikacije za Strategic Implantate:</h2>
+                <h2>Indikacije za Strategic Implant<sup>®</sup>:</h2>
                 <ul>
                     <li>svi slučajevi u kojima nedostaje nekoliko zuba ili ih je potrebno izvaditi</li>
                     <li>ukoliko je postupak ugradnje dvofaznih implantata ili augmentacije kosti bio neuspešan</li>
@@ -365,7 +365,7 @@
                 <h2>Kontraindikacije:</h2>
                 <ul>
                     <li>produžena oralna ili i.v. upotreba Bifosfonata (funkcija koštanog sistema mora biti proverena pre tretmana implantatima)</li>
-                    <li>slučajevi u kojima nije moguća bilateralna, ujedačena mastikacija, tj. kada funkcija mastikatornih mišica ili njihova inervacija nisu očuvani. Za više informacija pogledati uputstva za Simpladent Implantate na <a href="http://www.implant.com" target="_blank">www.implant.com</li>
+                    <li>slučajevi u kojima nije moguća bilateralna, ujedačena mastikacija, tj. kada funkcija mastikatornih mišica ili njihova inervacija nisu očuvani. Za više informacija pogledati uputstva za Strategic Implant<sup>®</sup> na <a href="http://www.implant.com" target="_blank">www.implant.com</li>
                 </ul>
             </div>
         </div>
@@ -386,7 +386,7 @@
                     </div>
                     <div class="text">
                         <div class="article">
-							<p>Pacijent je imao proteze na 3 zuba u gornjoj vilici i na 4 zuba u donjoj vilici. Nakon 12 godina korišćenja ovih proteza, svi zubi su izvađeni i ugrađeno mu je 19 Strategic implantata. Definitivan protetski rad je cementiran posle 3 dana. Pacijent je odmah mogao da jede normalno. Tretman je drastično promenio njegov život i on je odmah povratio samopouzdanje.</p>
+							<p>Pacijent je imao proteze na 3 zuba u gornjoj vilici i na 4 zuba u donjoj vilici. Nakon 12 godina korišćenja ovih proteza, svi zubi su izvađeni i ugrađeno mu je 19 Strategic Implant<sup>®</sup>. Definitivan protetski rad je cementiran posle 3 dana. Pacijent je odmah mogao da jede normalno. Tretman je drastično promenio njegov život i on je odmah povratio samopouzdanje.</p>
                         </div>
                     </div>
                     <div class="clear"></div>
@@ -455,10 +455,10 @@
         <img src="img/metholoy/img9.jpg" alt="" />
     </div>
     <div class="article">
-        <p>Svi Simpladent-Implantati poseduju doživotnu garanciju od strane proizvođača. To znači da će implantati i delovi implantata biti zamenjeni besplatno.</p>
+        <p>Svi Strategic Implant<sup>®</sup> poseduju doživotnu garanciju od strane proizvođača. To znači da će implantati i delovi implantata biti zamenjeni besplatno.</p>
         <p>Garancija na rad ordinirajućeg doktora ne može biti obezbeđena, jer proces zarastanja zavisi većinom od pacijenta. Bez obzira, pripadnici Simpladent grupe će pružiti pomoć bilo besplatno ili po značajno sniženim cenama ako se pojedinačni implantati ili protetski rad moraju zameniti zbog neočekivanih događaja. Period na ovu vrstu garancije je obično 4 godine.</p>
         <p>Obratiti pažnju na činjenicu da bi garancija bila validna, redovni kontrolni pregledi u ovlašćenim Simpladent klinikama su neophodni.</p>
-        <p>Zahtev za garanciju može se podneti u svakoj Simpladent klinici (osim trenutno u Rusiji).</p>
+        <p>Zahtev za garanciju može se podneti u svakoj Simpladent klinici.</p>
     </div>
     <div class="clear"></div>
 </div>

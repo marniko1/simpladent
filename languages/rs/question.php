@@ -16,10 +16,10 @@
 <br/>
 <br/>
 
-<h2>Koje su tri najvažnije prednosti Simpladent® tretmana sa <a href="http://www.strategic-implant.com" target="_blank">Strategic implantatima</a>?</h2>
+<h2>Koje su tri najvažnije prednosti Simpladent tretmana sa <a href="http://www.strategic-implant.com" target="_blank">Strategic Implant<sup>®</sup></a>?</h2>
 <ul style="margin-left:10px;">
 <li><strong>1.	Brzina:</strong> <br/>
-U samo jednoj poseti uklonjeni su zubi i odmah zatim ugrađeni Strategic implantati. Nasuprot konvencionalnim metodama, implantati su  ugrađeni u kortikalnu kost. Neophodna je mala količina ove kosti da se obezbedi uspeh tretmana, tako da su procedure koštane augmentacije, koštani transplantati i sinus lift nepotrebne i zastarele. Ušteda u vremenu iznosi 98% celokupnog vremena potrebnog za tretman i značajno se smanjuje diskomfort i bol za pacijenta.</li>
+U samo jednoj poseti uklonjeni su zubi i odmah zatim ugrađeni Strategic Implant<sup>®</sup>. Nasuprot konvencionalnim metodama, implantati su  ugrađeni u kortikalnu kost. Neophodna je mala količina ove kosti da se obezbedi uspeh tretmana, tako da su procedure koštane augmentacije, koštani transplantati i sinus lift nepotrebne i zastarele. Ušteda u vremenu iznosi 98% celokupnog vremena potrebnog za tretman i značajno se smanjuje diskomfort i bol za pacijenta.</li>
 <br/>
 <li><strong>2.	Bezbednost:</strong> <br/>
 Svaka hiruška procedura, koje možemo da poštedimo pacijenta, smanjuje ukupan rizik za pacijenta. Isključujući koštane augmentacije, -transplantate i druge procedure, rizik je minimalizovan primenom Simpladent® metode: neophodna je samo jedna hiruška intervencija.</li>
@@ -30,50 +30,50 @@ Nakon uklanjanja zuba, pacijenti mogu očekivati da se javi uobičajen bol izazv
 <br/>
 <br/>
 
-<h2> Da li mogu da budem kandidat za Strategic® metodu ugradnje implantata?</h2>
+<h2> Da li mogu da budem kandidat za ugradnju Strategic Implant<sup>®</sup>?</h2>
 
 Mnogi pacijenti postavljaju sebi ovo pitanje-pogotovo pacijenti kompromitovanog zdravlja ili pacijenti sa hroničnim bolestima (kao što je dijabetes) ili strastveni pušači.<br/>
 <br/>
-Odgovor je jednostavno: Da! Preko 99% pacijenata je uspešno tretirano sa Strategic implantatima.<br/>
+Odgovor je jednostavno: Da! Preko 99% pacijenata je uspešno tretirano sa Strategic Implant<sup>®</sup>.<br/>
 <br/>
-Ovo uključuje pacijente sa oboljenjima periodoncijuma i (hroničnim) gingivitisima, kao i pacijente koji su odustali od svojih fisnih zuba zbog dugotrajnog,  mukotrpnog  ili preskupog tretmana.<br/>
+Ovo uključuje pacijente sa oboljenjima periodoncijuma i (hroničnim) gingivitisima, kao i pacijente koji su odustali od svojih fisnih zuba zbog dugotrajnog, mukotrpnog ili preskupog tretmana.<br/>
 <br/>
 Svi ovi pacijenti mogu da reše problem nedostatka zuba „samo jednim tretmanom“.
 <br/>
 <br/>
 
-<h2>Šta je ključna razlika između konvencionalne implantologije i Simpladent® metodologije?</h2>
+<h2>Šta je ključna razlika između konvencionalne implantologije i Strategic Implant<sup>®</sup>?</h2>
 
 Konvencionalna implantologija sa 2-faznim implantatima zahteva obilje koštanog tkiva, vremena i novca. U mnogim slučajevima, pacijenti ne poseduju dovoljno kosti, što rezultira potrebom za koštanim augmentacijama, sinus liftom ili riskantnim koštanim transplantatima. Celokupan tok tretmana se karakteriše periodima čekanja, vremenom zarastanja i visokim troškovima.<br/>
 <br/>
-Ovde postaje jasno izražena prednost Simpladent®implantologije. Metod je brz, pouzdan i predvidljiv.<br/>
+Ovde postaje jasno izražena prednost Strategic Implant<sup>®</sup>. Metod je brz, pouzdan i predvidljiv.<br/>
 <br/>
 Čak i pacijenti sa veoma malo koštanog tkiva mogu biti podvrgnuti imedijantnom tretmanu poliranim, jednodelnim, kortikalnim-bazalnim implantatima. Naš metod zahteva samo kortikalnu kost, koje ima u dovoljnoj količini u svakoj vilici. Ova stabilna, kortikalna kost je pogodna za ugradnju implantata i dostupna kod praktično svakog pacijenta tokom čitavog života.<br/>
 <br/>
-Strategic implantati se mogu imedijantno opteretiti. <a href="http://peri-implantitis.info/en" target="_blank">Periimplantitis</a>, opasna infekcija, se ne javlja ako je korišćena ova metoda tretmana.
+Strategic Implant<sup>®</sup> se mogu imedijantno opteretiti. <a href="http://peri-implantitis.info/en" target="_blank">Periimplantitis</a>, opasna infekcija, se ne javlja ako je korišćena ova metoda tretmana.
 <br/>
 <br/>
 
-<h2>Imam dovoljno kosti i nemam zdravstvenih problema. Da li i dalje postoje prednosti za mene ako se odlučim za Strategic implantate?</h2>
+<h2>Imam dovoljno kosti i nemam zdravstvenih problema. Da li i dalje postoje prednosti za mene ako se odlučim za Strategic Implant<sup>®</sup>?</h2>
 
 Da, uštedećete mnogo vremena i novca.<br/>
 <br/>
-Mnogi ljudi su veoma zauzeti i sa aspekta profesionalnog i  privatnog života. Oni ne žele da se zamaraju brojnim posetama stomatološkim ordinacijama i žele brz, siguran i predvidljiv tretman. Simpladent® metoda obezbeđuje sve pomenuto i dostupna je-pacijenti mogu da uštede više od dve trećine troškova u poređenju sa troškovima konvencionalnog tretmana u Nemačkoj.
+Mnogi ljudi su veoma zauzeti i sa aspekta profesionalnog i privatnog života. Oni ne žele da se zamaraju brojnim posetama stomatološkim ordinacijama i žele brz, siguran i predvidljiv tretman. Simpladent® metoda obezbeđuje sve pomenuto i dostupna je. Pacijenti mogu da uštede više od dve trećine troškova u poređenju sa troškovima konvencionalnog tretmana u Nemačkoj.
 <br/>
-Brzina, bezbednost, predvidljivost, pouzdanost i pristupačnost-su dostignuća Simpladent® koncepta. Pacijenti zaista dobijaju fiksne zube u roku od tri do maksimum pet dana.
+Brzina, bezbednost, predvidljivost, pouzdanost i pristupačnost su dostignuća Simpladent® koncepta. Pacijenti zaista dobijaju fiksne zube u roku od tri do maksimum pet dana.
 <br/>
 U našoj poudi postoji čak i „biznis-vikend“ za pacijente koji su u žurbi, tako da oni već u ponedeljak mogu da prisustvuju jutarnjim poslovnim sastancima sa osmehom koji oslobađa-i slobodno da žvaću u toku ručaka.
 <br/>
 <br/>
 
-<h2>Imam problema sa svojim konvencionalnim implantatima. Da li mogu da ih zamenim Simpladent® metodom?</h2>
+<h2>Imam problema sa svojim konvencionalnim implantatima. Da li mogu da ih zamenim sa Strategic Implant<sup>®</sup>?</h2>
 
 Da, naravno.
 <br/>
 Troškovi tretmana konvencionalnim 2-faznim implantatima se nekontrolisano uvećavaju tokom meseci ili čak godina. Jedna hirurška intervencija, zatim sledeća, postoperativna nega..račun se uvećava. Pacijenti se plaše da završe tretman ili nisu svestni alternativnih tretmana. Pacijenti se osećaju kao da nema kraja.
 <br/>
-Mnoge hirurške procedure, kao što su koštani transplantati, nepotrebne su ako se primenjuje naša metoda. Pošto smo u mogućnosti da izbegnemo ove procedure, kao rezultat imamo smanjenje troškova od 30% u odnosu na konvencionalne metode. Dodatnih 20% pacijenti mogu da uštede izbegavanjem privremenih pritetskih radova, koji su takođe nepotrebni kada se radi u protokolu imedijantnog opterećenja. 
-Promena metode tretmana se gotovo uvek isplati. Konvencionalni implantati su uklonjeni i postavjeninsu novi Strategic implantati u jednoj hirurškoj proceduri. Pacijenti mogu da se vrate normalnom životu sa osmehom nakon tri do pet dana, najviše.
+Mnoge hirurške procedure, kao što su koštani transplantati, nepotrebne su ako se primenjuje naša metoda. Pošto smo u mogućnosti da izbegnemo ove procedure, kao rezultat imamo smanjenje troškova od 30% u odnosu na konvencionalne metode. Dodatnih 20% pacijenti mogu da uštede izbegavanjem privremenih protetskih radova, koji su takođe nepotrebni kada se radi u protokolu imedijantnog opterećenja. 
+Promena metode tretmana se gotovo uvek isplati. Konvencionalni implantati su uklonjeni i postavjeninsu novi Strategic Implant<sup>®</sup> u jednoj hirurškoj proceduri. Pacijenti mogu da se vrate normalnom životu sa osmehom nakon tri do pet dana, najviše.
 <br/>
 <br/>
 
@@ -81,7 +81,7 @@ Promena metode tretmana se gotovo uvek isplati. Konvencionalni implantati su ukl
 
 Doktori edukuju pacijente shodno sopstvenom znanju. Sve dok se oni drže konvencionalne implantologije, dodatne procedure (kao što su koštane augmentacije sa dugim periodima čekanja i zarastanja) biće neophodne-čak uprkos bolu i nelagodnosti pacijenata i uprkos činjenici da je uspeh tretmana nesiguran zbog mnogobrojnih intervencija. Danas pacijenti imaju izbor da odbiju konvencionalne tretmane i da potraže alternativu.
 <br/>
-Strategic implantati omogućavaju rad sa pacijentima koji imaju veoma malo raspoložive kosti, jer su polirani, jednodelni implantati i ugrađuju se u stabilnu kost koju svaki pacijent ima u dovoljnoj količini. Čak i pacijenti sa postojećim periimplantitisom, oboljenjima periodoncijuma ili gingivitisima mogu dobiti implantte imedijantno koristeći Simpladent metodu. Rezultat je predvidljiv i pouzdan.
+Strategic Implant<sup>®</sup> omogućavaju rad sa pacijentima koji imaju veoma malo raspoložive kosti, jer su polirani, jednodelni implantati i ugrađuju se u stabilnu kost koju svaki pacijent ima u dovoljnoj količini. Čak i pacijenti sa postojećim periimplantitisom, oboljenjima periodoncijuma ili gingivitisima mogu dobiti implantte imedijantno koristeći Simpladent metodu. Rezultat je predvidljiv i pouzdan.
 <br/>
 <br/>
 
@@ -93,11 +93,11 @@ Koncept Simpladent® tretmana zahteva ugradnju adekvatnog broja kortikalnih-baza
 <br/>
 <br/>
 
-<h2>Kakva je situacija  sa „pacijentima rizika“ (kao što su pušači, dijabetičari ili oboleli od drugih bolesti)? Da li njima mogu da se ugrade Strategic implantati?</h2>
+<h2>Kakva je situacija  sa „pacijentima rizika“ (kao što su pušači, dijabetičari ili oboleli od drugih bolesti)? Da li njima mogu da se ugrade Strategic Implant<sup>®</sup>?</h2>
 
 Da, uvek. 
 <br/>
-Upotreba konvencionalnih 2-faznih implantata je povezana sa velikom verovatnoćom da se dodatni hirurški tretmani moraju preduzeti. To® je opterećenje za pacijenta. Dodatno, uvek je prisutan rizik od periimplantitisa, ozbiljne infekcije za koju trenutno nema efikasnog tretmana. Ovi problemi ne pogađaju tretman Simpladent® metodom. Neophodna je samo jedna hirurška intervencija u toku koje se ugrađuju polirani jednodelni implantati. Slučajevi periimplantitisa nisu poznati.
+Upotreba konvencionalnih 2-faznih implantata je povezana sa velikom verovatnoćom da se dodatni hirurški tretmani moraju preduzeti. To je opterećenje za pacijenta. Dodatno, uvek je prisutan rizik od periimplantitisa, ozbiljne infekcije za koju trenutno nema efikasnog tretmana. Ovi problemi ne pogađaju tretman Simpladent® metodom. Neophodna je samo jedna hirurška intervencija u toku koje se ugrađuju polirani jednodelni implantati. Slučajevi periimplantitisa nisu poznati.
 <br/>
 <br/>
 
@@ -106,7 +106,7 @@ Upotreba konvencionalnih 2-faznih implantata je povezana sa velikom verovatnoćo
 <br/>
 Periimplantitis se javlja u 50% tretiranih slučajeva-često nakon vremena potrebnog za zarastanje implantata, onda kada sve izgleda dobro i pacijent počinje da koristi implantat za žvakanje.
 <br/>
-Trenutno ne postoji efikasan tretman ovog fenomena. Svi pokušaji čišćenja zahvaćenih delova ne daju rezultate, jer milioni novih bakterija se konstantno stvaraju u ustima. Jedini siguran način da se pobedi infekcija je uklanjanje konvencionalnih implantata i ugradnja Strategic implantata.
+Trenutno ne postoji efikasan tretman ovog fenomena. Svi pokušaji čišćenja zahvaćenih delova ne daju rezultate, jer milioni novih bakterija se konstantno stvaraju u ustima. Jedini siguran način da se pobedi infekcija je uklanjanje konvencionalnih implantata i ugradnja Strategic Implant<sup>®</sup>.
 <br/>
 Detaljne informacije o ovoj temi su dostupne ovde:  <a href="http://www.peri-implantitis.info/en/" target="_blank"> www.peri-implantitis.info </a>
 <br/>
@@ -118,7 +118,7 @@ Nema je, sa medicinskog aspekta postoje samo prednosti: brza je, bezbedna, prist
 U retkim slučajema, željeni estetski rezultati se ne mogu ostvariti odmah. Usled rada u protokolu imedijantnog opterećenja (48 do 72 sata) vreme za kontrolisanje estetskih rezultata je ograničeno. Naši tehničari su obučeni i za ove slučajeve.
 <br/>
 <br/>
-Prirodan proces ponovne izgradnje koštanog tkiva se očekuje posle vađenja zuba. Kod paci-jenata sa veoma malom količinom koštanog tkiva, koji ne mogu biti tretirani konvencionalnim implantatima, može se vremenom pojaviti mali razmak između desni i mosta. Ovo može biti korigovano podlaganjem ili zamenom prvog mosta.
+Prirodan proces ponovne izgradnje koštanog tkiva se očekuje posle vađenja zuba. Kod pacijenata sa veoma malom količinom koštanog tkiva, koji ne mogu biti tretirani konvencionalnim implantatima, može se vremenom pojaviti mali razmak između desni i mosta. Ovo može biti korigovano podlaganjem ili zamenom prvog mosta.
 <br/>
 <br/>
 Stvaranje i remodelacija kosti se završava posle približno 6 do 9 meseci. Nakon ovog perioda stabilnost implantata neće biti ugrožena zamenom mosta, tako da je to moguće posle ovog vremena. 

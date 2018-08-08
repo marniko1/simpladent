@@ -171,7 +171,7 @@
 	<br />
 	<br />
 	<p>
-		Ovde predstavljeni klinički slučajevi pružaju samo osnovne informacije o mogućim tretmanima. Nisu mogući istovetni rezultati u svim kliničkim slučajevima. Treba razumeti da izgled novih zuba zavisi od količine raspoložive kosti i volumena mekih tkiva. Implantati ne mogu da zamene kost i meka tkiva. Implantati obezbeđuju stabilnu osnovu za ugradnju protetskih kruna i mostova. Strategic implantati<sup>®</sup> omogućavaju rad bez koštanih augmentacija. Oni koriste raspoloživu kost.
+		Ovde predstavljeni klinički slučajevi pružaju samo osnovne informacije o mogućim tretmanima. Nisu mogući istovetni rezultati u svim kliničkim slučajevima. Treba razumeti da izgled novih zuba zavisi od količine raspoložive kosti i volumena mekih tkiva. Implantati ne mogu da zamene kost i meka tkiva. Implantati obezbeđuju stabilnu osnovu za ugradnju protetskih kruna i mostova. Strategic Implant<sup>®</sup> omogućavaju rad bez koštanih augmentacija. Oni koriste raspoloživu kost.
 	</p>
 </div>			
 			

@@ -7,7 +7,7 @@
             <img src="img/about/img11.jpg" alt=""/>
         </div>
         <div class="article">
-            <blockquote>Ranih devedesetih radio sam na severu Švajcarske.Imao sam više od 6000 pacijenata. Bilo je neverovatno...mnogo posla. Implantologija je u to vreme bila tek u povoju...puno intervencija, veliki rizik i mnogo neuspeha. Tada sam shvatio da je dentalnoj implantologiji potrebno nešto što će omogućiti pouzdan I efikasan rad, bez operacija koje oduzimaju vreme I meseci potrebnih da bi se došlo do zadovoljavajućih rezultata.Pacijenti nisu imali ni dovoljno novca, ni dovoljno kosti za korišćenje konvencionalnih implantata.Tada se rodila ideja moderne strateške implantologije I počeo sam da radim na ovom konceptu. </blockquote>
+            <blockquote>Ranih devedesetih radio sam na severu Švajcarske. Imao sam više od 6000 pacijenata. Bilo je neverovatno...mnogo posla. Implantologija je u to vreme bila tek u povoju...puno intervencija, veliki rizik i mnogo neuspeha. Tada sam shvatio da je dentalnoj implantologiji potrebno nešto što će omogućiti pouzdan I efikasan rad, bez operacija koje oduzimaju vreme I meseci potrebnih da bi se došlo do zadovoljavajućih rezultata.Pacijenti nisu imali ni dovoljno novca, ni dovoljno kosti za korišćenje konvencionalnih implantata.Tada se rodila ideja moderne strateške implantologije I počeo sam da radim na ovom konceptu.</blockquote>
         </div>
     </div>
     <div class="main_block">
@@ -24,7 +24,7 @@
             <ul>			
 				<li>Simpladent koncept je potpuno promenio svet implantologije.</li>
 				<li>U našim klinikama oslobodićemo Vas svih problema vezanih za zube I vrlo brzo ćete se vratiti svakodnevnom životu.</li>
-                <li>Svaki pacijent može dobiti fiksne zube odmah,bez čekanja na zarastanje,bez augmentacija i bez privremenih proteza.</li>
+                <li>Svaki pacijent može dobiti fiksne zube odmah, bez čekanja na zarastanje, bez augmentacija i bez privremenih proteza.</li>
                 <li>Naši visoko trenirani hirurzi koriste bikortikalnu kost u svim delovima maksilo-facijalnog skeleta. Ova kost je otporna na resorpciju i stabilna, pa je iz tog razloga moguće pacijentima odmah ugraditi mostove.</li>
                 <li>Specijalizovani zubni tehničar će Vam mostovima omogućiti dobar I siguran zagrižaj. Moći ćete da jedete odmah nakon postavljanja mostova.</li>
             </ul>
