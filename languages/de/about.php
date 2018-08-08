@@ -65,12 +65,12 @@
 		zuverlässiger arbeiten als "eigene" Zähne. Wir werden Ihre Mundsituation analysieren und alle Probleme aufzeigen.</p>
     </div>
     <div class="clear"></div>
-</div
+</div>
         <div class="section" id="aboutSection_4">
         <h1>Zertifikat</h1>
         <div class="certificates">
                 <a href="img/pdf/CE_Certificate_Simpladent.pdf" class="fancybox cert" data-fancybox-group="cert" target="_blank">
-                    <img src="/img/about/certificate/CE_Certificate_Simpladent.png" alt="" />
+                    <img src="img/about/certificate/CE_Certificate_Simpladent.png" alt="" />
                 </a>
                     </div>
         <div class="article">
